@@ -1,0 +1,23 @@
+name: fetchcov
+on:
+  push:
+    paths: ['.github/workflows/fetchcov.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  go:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: run
+        run: |
+          for p in clock-1:hp2vcts4 clock-2:lzegy875 clock-3:7zyby19q clock-4:hlilglsm clock-5:4lkdvbni clock-6:k6zcoadg clock-7:n2rkt96r clock-8:6fod9j9m clock-9:unmzyfby clock-10:mqyxr2h9 clock-11:sj2kut86 worlds-1:gup0cke9 worlds-2:jud996tb worlds-3:pbniqggy worlds-4:hahm0d0m worlds-5:2cmbm4sy worlds-6:377ukqk9 worlds-7:kdaukqqs; do
+            n=${p%%:*}; c=${p##*:}
+            curl -fsSL --retry 3 -o $n.jpg https://pomf2.lain.la/f/$c.jpg
+          done
+          git config user.name bot
+          git config user.email bot@users.noreply.github.com
+          git add *.jpg
+          git commit -m add
+          git push
