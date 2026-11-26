@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:responsive='true' b:version='2' class='v2' dir='rtl' lang='ar' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<meta content='qBTLTbxsSrndsC8w2TnV' name='follow.it-verification-code'/>
+<b:if cond='data:view.isHomepage'><meta content='متحف الكتابة - قصص وروايات بقلم محمد عاشور عبدالعاطي. قصص قصيرة ومذكرات ونوفيلات تعيش معك بعد آخر سطر.' name='description'/></b:if>
+<meta content='index, follow, max-image-preview:large' name='robots'/>
+
+<title><data:blog.pageTitle/></title>
+<link href='https://fonts.googleapis.com' rel='preconnect'/>
+<link crossorigin='anonymous' href='https://fonts.gstatic.com' rel='preconnect'/>
+<link href='https://cdn.jsdelivr.net' rel='preconnect'/>
+<meta content='#0d0d0d' name='theme-color'/>
+<link href='https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&amp;display=swap' rel='stylesheet'/>
+<meta content='محمد عاشور عبدالعاطي' name='author'/>
+<b:if cond='data:blog.pageType == &quot;item&quot;'><script type='application/ld+json'>{&quot;@context&quot;:&quot;https://schema.org&quot;,&quot;@type&quot;:&quot;BlogPosting&quot;,&quot;url&quot;:&quot;<data:blog.canonicalUrl/>&quot;,&quot;author&quot;:{&quot;@type&quot;:&quot;Person&quot;,&quot;name&quot;:&quot;محمد عاشور عبدالعاطي&quot;,&quot;url&quot;:&quot;https://museumofstories.blogspot.com/p/blog-page.html&quot;}}</script></b:if>
+<!--brandmeta1-->
+<b:if cond='data:view.isHomepage'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@f043464ce9ce74267a651bd932e6271a06dad6cb/brand/og.jpg' property='og:image'/><meta content='1200' property='og:image:width'/><meta content='630' property='og:image:height'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_238.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c01.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_130.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c02.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_771.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c03.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_870.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c04.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_795.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c05.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_229.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c06.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_825.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c07.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_323.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c08.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_52.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c09.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_979.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c10.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_522.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c11.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_599.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c12.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_283.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c13.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_409.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c14.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_738.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c15.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_99.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c16.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_369.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c17.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_665.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c18.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_407.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c19.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_361.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c20.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_96.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c21.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_25.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c22.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/09/blog-post_11.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c23.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/09/blog-post_07.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c24.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/09/blog-post.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c25.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/08/blog-post_25.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c26.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/08/blog-post_24.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c27.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/08/blog-post_987.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c28.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/08/blog-post_23.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c29.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/08/blog-post.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c30.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/07/blog-post_30.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c31.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/07/blog-post_24.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c32.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/07/blog-post.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c33.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/06/blog-post.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c34.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/05/blog-post_21.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c35.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/05/blog-post_12.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c36.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/05/blog-post.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c37.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/03/blog-post.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c38.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/01/blog-post.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c39.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/01/6.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c40.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2025/10/blog-post.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c41.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2025/09/blog-post_21.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c42.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2025/09/blog-post_08.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c43.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2025/09/blog-post_03.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c44.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2025/09/blog-post.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c45.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2025/08/blog-post_27.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c46.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2025/08/blog-post.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c47.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2025/08/blog-post_07.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c48.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_486.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-1.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_9841.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-2.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_814.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-3.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_190.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-4.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_871.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-5.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_724.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-6.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_478.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-7.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_597.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-1.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_864.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-2.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_694.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-3.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_890.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-4.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_327.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-5.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_618.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-6.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_836.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-7.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_405.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-8.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_933.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-9.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_164.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-10.jpg' property='og:image'/></b:if>
+<b:if cond='data:view.isSingleItem and data:blog.url == &quot;https://museumofstories.blogspot.com/2026/11/blog-post_634.html&quot;'><meta content='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-11.jpg' property='og:image'/></b:if>
+<meta content='summary_large_image' name='twitter:card'/>
+<link href='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@f043464ce9ce74267a651bd932e6271a06dad6cb/brand/fav512.png' rel='icon' sizes='512x512' type='image/png'/>
+<link href='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@f043464ce9ce74267a651bd932e6271a06dad6cb/brand/fav180.png' rel='apple-touch-icon' sizes='180x180'/>
+<link href='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@f043464ce9ce74267a651bd932e6271a06dad6cb/brand/fav180.png' rel='shortcut icon' type='image/png'/>
+<b:include data='blog' name='all-head-content'/>
+<b:skin><![CDATA[
+:root{--z:1;--bg:#0d0d0d;--card:#1a1a1a;--card2:#222;--line:#2b2b2b;--lime:#d4af37;--txt:#e9e9e9;--mut:#9a9a9a}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--bg);color:var(--txt);font-family:'Cairo',Tahoma,sans-serif;direction:rtl;text-align:right;line-height:1.8;font-size:16px}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1100px;margin:0 auto;padding:0 18px}
+.topbar{position:sticky;top:0;z-index:50;background:rgba(13,13,13,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:62px;flex-wrap:wrap}
+.brand{font-weight:900;font-size:20px;color:var(--lime);letter-spacing:.3px}
+.menu{display:flex;gap:6px;flex-wrap:wrap;margin:0;padding:0;list-style:none}
+.menu a{display:block;padding:6px 14px;border-radius:999px;font-weight:600;font-size:15px;color:var(--txt);border:1px solid transparent}
+.menu a:hover{border-color:var(--lime);color:var(--lime)}
+.author{margin:34px 0 10px;background:linear-gradient(180deg,#1a160a 0%,#121212 70%);border:1px solid var(--line);border-radius:26px;padding:34px 30px;display:flex;gap:30px;align-items:center}
+.author img{width:150px;height:150px;border-radius:50%;object-fit:cover;border:4px solid var(--lime);flex:none}
+.author h1{margin:0 0 8px;font-size:30px;font-weight:900}
+.author p{margin:0;color:#cfcfcf;font-size:17px;max-width:760px}
+.chips{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}
+.chip{background:#101010;border:1px solid var(--line);border-radius:999px;padding:3px 14px;font-size:13px;color:var(--mut)}
+.chip b{color:var(--lime)}
+h2.sec{display:flex;align-items:center;gap:16px;color:var(--lime);font-size:26px;font-weight:900;margin:44px 0 22px}
+h2.sec:after{content:'';flex:1;height:1px;background:var(--line)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:20px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:22px;display:flex;flex-direction:column;gap:10px;transition:.2s}
+.card:hover{border-color:var(--lime);transform:translateY(-3px)}
+.tag{align-self:flex-start;background:#101010;border:1px solid var(--line);border-radius:999px;padding:1px 12px;font-size:12px;color:var(--mut)}
+.card h3{margin:2px 0;font-size:21px;font-weight:700}
+.card .snip{margin:0;color:var(--mut);font-size:15px;flex:1}
+.btn{display:inline-block;align-self:flex-start;background:var(--lime);color:#111;font-weight:800;border-radius:12px;padding:8px 22px;font-size:15px}
+.btn:hover{filter:brightness(1.08)}
+.empty{background:var(--card);border:1px dashed var(--line);border-radius:20px;padding:34px;text-align:center;color:var(--mut)}
+.full{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:34px 30px;margin:34px 0}
+.full h1{margin:0 0 6px;font-size:32px;font-weight:900;color:var(--lime)}
+.full .meta{color:var(--mut);font-size:14px;margin-bottom:22px}
+.post-body{font-size:calc(1.2rem * var(--z));line-height:2.1;color:#ececec}
+.post-body img{max-width:100%;height:auto;border-radius:14px}
+.pager{display:flex;justify-content:space-between;margin:30px 0}
+.pager a{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px 20px}
+.pager a:hover{border-color:var(--lime);color:var(--lime)}
+.zoom{position:fixed;left:16px;bottom:16px;z-index:99;display:flex;gap:6px;background:#141414;border:1px solid var(--line);border-radius:999px;padding:6px 8px;box-shadow:0 6px 24px rgba(0,0,0,.5)}
+.zoom button{background:var(--card2);color:var(--txt);border:1px solid var(--line);border-radius:999px;width:42px;height:42px;font:700 17px 'Cairo',sans-serif;cursor:pointer}
+.zoom button:hover{background:var(--lime);color:#111}
+.foot{border-top:1px solid var(--line);margin-top:50px;padding:26px 0 90px;text-align:center;color:var(--mut);font-size:14px}
+.hidden-widgets,.raw{display:none}
+@media(max-width:640px){.author{flex-direction:column;text-align:center;padding:26px 18px}.author h1{font-size:25px}.brand{font-size:18px}.full{padding:22px 16px}.full h1{font-size:26px}}
+
+.blog-posts{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:20px;margin:0}
+.date-outer,.date-posts{display:contents}
+.date-header,.post-footer,.post-share-buttons,.post-timestamp,.post-icons,.post-labels,.post-feeds,.blog-feeds,.status-msg-wrap,.post-author,.post-comment-link,.post-location,.post-reactions,.reactions-label-cell{display:none!important}
+.post-outer{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:22px;display:flex;flex-direction:column;gap:10px;transition:.2s}
+.post-outer:hover{border-color:var(--lime);transform:translateY(-3px)}
+.post{margin:0}
+.post-title,.post-title a{margin:2px 0;font-size:21px;font-weight:700;color:var(--txt)}
+.pt-index .post-body{display:none}
+.pt-index .snip{margin:0;color:var(--mut);font-size:15px}
+.pt-item .blog-posts,.pt-static_page .blog-posts{display:block}
+.pt-item .post-outer,.pt-static_page .post-outer{border-radius:22px;padding:34px 30px;margin:34px 0}
+.pt-item .post-outer:hover,.pt-static_page .post-outer:hover{transform:none;border-color:var(--line)}
+.pt-item .post-title,.pt-static_page .post-title{font-size:32px;font-weight:900;color:var(--lime)}
+.blog-pager{display:flex;justify-content:space-between;margin:30px 0;grid-column:1/-1}
+.blog-pager a{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px 20px}
+#blog-pager{overflow:hidden}
+.pt-item .post-body,.pt-static_page .post-body{display:block}
+.btn,.zoom button:hover{background:linear-gradient(135deg,#f7e08a 0%,#d4af37 45%,#a67c00 100%)!important;color:#1a1200!important}
+.brand,h2.sec,.pt-item .post-title,.pt-static_page .post-title,.author h1{background:linear-gradient(135deg,#fff0a8 0%,#d4af37 45%,#b8860b 100%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
+.author img{border-color:#d4af37;box-shadow:0 0 18px rgba(212,175,55,.35)}
+@media(max-width:640px){.topbar{position:static}.menu a{padding:4px 10px;font-size:14px}}
+.comments{margin-top:26px;background:#fff;color:#222;border-radius:16px;padding:16px}.pt-static_page .comments,.pt-index .comments{display:none}
+.byline{margin:-4px 0 18px;font-size:15px;color:var(--mut)}.byline a{color:var(--lime);font-weight:700}
+]]></b:skin>
+<style>
+.srch{display:flex;gap:6px;flex-basis:100%;justify-content:center;margin:0 0 10px}.srch input{background:#141414;border:1px solid var(--line);color:#eee;border-radius:20px;padding:6px 14px;font:inherit;font-size:14px;width:130px}.srch button{background:linear-gradient(135deg,#f3d77a,#d4af37);border:0;border-radius:20px;padding:6px 12px;font:inherit;font-weight:700;color:#111;cursor:pointer}
+.meta2{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:0 0 16px;color:var(--mut);font-size:14px}.tag{border:1px solid var(--line);border-radius:20px;padding:3px 12px;color:var(--lime)!important;text-decoration:none}
+.share{display:flex;flex-wrap:wrap;gap:8px;margin:26px 0;align-items:center}.share span{color:var(--mut)}.share a,.share button{background:#161616;border:1px solid var(--line);color:#eee;border-radius:20px;padding:7px 15px;font:inherit;font-size:14px;cursor:pointer;text-decoration:none}.share a:hover,.share button:hover{border-color:var(--lime);color:var(--lime)}
+.pn{display:flex;justify-content:space-between;gap:12px;margin:20px 0}.pn a{flex:1;border:1px solid var(--line);border-radius:14px;padding:12px 16px;color:#eee;text-decoration:none;background:#141414}
+.card .cov{border-radius:12px}
+.sfoot{text-align:center;color:var(--mut);margin:30px 0 10px}.soc{display:flex;gap:10px;justify-content:center;margin-top:8px}.soc:empty{display:none}
+@media(max-width:700px){.srch input{width:90px}}
+</style>
+<style>
+.hero{margin:6px 0 34px;padding:44px 22px 44px;text-align:center;border:1px solid var(--line);border-radius:26px;background:radial-gradient(circle at 80% 0%,rgba(212,175,55,.22),transparent 55%),radial-gradient(circle at 10% 100%,rgba(212,175,55,.12),transparent 50%),#101010}
+.hero .badge{display:inline-block;border:1px solid rgba(212,175,55,.5);color:var(--lime);border-radius:20px;padding:5px 16px;font-size:14px;margin-bottom:18px}
+.hero h1{font-size:clamp(26px,4.6vw,48px);line-height:1.7;margin:0 0 26px;font-weight:900}.hero h1 em{font-style:normal;background:linear-gradient(135deg,#f6e08a,#d4af37 60%,#a8841c);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero&gt;p{color:var(--mut);font-size:18px;max-width:560px;margin:0 auto 24px}
+.hsearch{display:flex;max-width:520px;margin:0 auto 22px;border:1px solid rgba(212,175,55,.4);border-radius:40px;padding:6px;background:#161616}.hsearch input{flex:1;min-width:0;background:transparent;border:0;color:#eee;font:inherit;padding:8px 16px;outline:0}.hsearch button{background:linear-gradient(135deg,#f3d77a,#d4af37);border:0;border-radius:30px;padding:8px 24px;font:inherit;font-weight:800;color:#111;cursor:pointer}
+.ctas{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}.ctas a{border-radius:30px;padding:11px 28px;font-weight:800;text-decoration:none}.cta1{background:linear-gradient(135deg,#f3d77a,#d4af37);color:#111}.cta2{border:1px solid rgba(212,175,55,.6);color:var(--lime)}
+.is-home .srch{display:none}
+.series{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;margin:0 0 34px}.series a{display:block;padding:20px 16px;border:1px solid var(--line);border-radius:18px;background:linear-gradient(160deg,#1c1c1c,#121212);color:#eee;text-decoration:none;font-weight:700;text-align:center}.series a:hover{border-color:var(--lime);color:var(--lime)}.series small{display:block;color:var(--mut);font-weight:400;margin-top:6px}
+.sh{display:flex;justify-content:space-between;align-items:center}.sh a{color:var(--lime);text-decoration:none;font-size:15px}
+</style>
+<style>.sbtn{border:1px solid rgba(212,175,55,.5);color:var(--lime);border-radius:30px;padding:8px 24px;text-decoration:none;font-weight:700}.sbtn:hover{background:rgba(212,175,55,.12)}</style>
+<style>
+.vw{color:var(--mut)}
+.mr{margin:34px 0}.mrg{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+.mrg a{position:relative;display:flex;gap:14px;align-items:center;border:1px solid var(--line);border-radius:18px;background:var(--card);padding:12px;color:var(--txt);font-weight:700;line-height:1.7}
+.mrg a:hover{border-color:var(--lime)}
+.mrg img{width:64px;aspect-ratio:5/8;object-fit:cover;border-radius:8px;flex:none}
+.mrg .n{position:absolute;top:-10px;right:-6px;width:30px;height:30px;border-radius:50%;background:linear-gradient(135deg,#f7e08a,#d4af37);color:#1a1200;display:flex;align-items:center;justify-content:center;font-weight:900}
+.mrg small{display:block;color:var(--mut);font-weight:400}
+.qc{margin:30px 0;text-align:center;border:1px solid rgba(212,175,55,.45);border-radius:22px;padding:30px 22px;background:radial-gradient(circle at 50% 0%,rgba(212,175,55,.2),transparent 65%),#0f0e0a;color:#f3e7bd}
+.qc h2{margin:0 0 6px;font-size:16px;color:#d4af37;font-weight:700;letter-spacing:.5px;-webkit-text-fill-color:#d4af37;background:none}
+.qc .qm{font-size:54px;line-height:1;color:#d4af37}
+.qc .qt{font-size:clamp(20px,3.4vw,28px);line-height:2;font-weight:700;margin:4px 0 10px;color:#f6ecc6}
+.qc .qa{color:#b9a766;font-size:14px;margin-bottom:18px}
+.qb{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.qb button{background:linear-gradient(135deg,#f7e08a,#d4af37 45%,#a67c00);color:#1a1200;border:0;border-radius:30px;padding:9px 20px;font:inherit;font-weight:800;font-size:14px;cursor:pointer}
+.qb button.g{background:transparent;color:#d4af37;border:1px solid rgba(212,175,55,.6)}
+#thm{width:42px;height:42px;border-radius:12px;border:1px solid rgba(212,175,55,.5);background:#151515;color:#d4af37;font-size:19px;cursor:pointer;flex:none;order:3}
+@media(max-width:700px){#thm{order:1;margin-inline-start:auto}#hb{margin-inline-start:0!important}}
+html.lt{--bg:#f5efdf;--card:#fffdf7;--card2:#efe7d0;--line:#e2d7b8;--txt:#1f1b10;--mut:#6c6450;--lime:#8a6508}
+html.lt .topbar{background:rgba(245,239,223,.94)}
+html.lt .author{background:linear-gradient(180deg,#fbf3d8 0%,#fffdf7 70%)}
+html.lt .author p{color:#4a432f}
+html.lt .chip,html.lt .tag,html.lt .zoom,html.lt .share a,html.lt .share button,html.lt .pn a,html.lt .srch input,html.lt .hsearch,html.lt .relg a,html.lt #totop,html.lt #hb,html.lt #thm{background:#fffdf7;color:var(--txt)}
+html.lt .hsearch input,html.lt .srch input{color:#1f1b10}
+html.lt .zoom button{background:#efe7d0;color:#1f1b10}
+html.lt .post-body{color:#2a2415}
+html.lt .hero{background:radial-gradient(circle at 80% 0%,rgba(212,175,55,.25),transparent 55%),radial-gradient(circle at 10% 100%,rgba(212,175,55,.15),transparent 50%),#fffaf0}
+html.lt .series a{background:linear-gradient(160deg,#fffdf7,#f3ead0);color:#1f1b10}
+html.lt .subs{background:radial-gradient(circle at 80% 0%,rgba(212,175,55,.2),transparent 60%),#fffaf0}
+html.lt .comments{background:#fffdf7!important;color:#222!important}
+html.lt #dr{background:#fffaf0}html.lt #dr a{color:#1f1b10}
+html.lt .brand,html.lt h2.sec,html.lt .pt-item .post-title,html.lt .pt-static_page .post-title,html.lt .author h1{background:linear-gradient(135deg,#a67c00,#8a6508 50%,#6b4f00);-webkit-background-clip:text;background-clip:text}
+html.lt .hero h1 em{background:linear-gradient(135deg,#a67c00,#8a6508 60%,#6b4f00);-webkit-background-clip:text;background-clip:text}
+html.lt .menu a{color:#1f1b10}
+html.lt .post-title a{color:var(--txt)}
+html.lt .foot{color:var(--mut)}
+html.lt .btn,html.lt .cta1{color:#1a1200}
+html.lt .cta2,html.lt .sbtn{color:#7a5a05}
+</style>
+<script>//<![CDATA[
+try{if(localStorage.getItem('wm_theme')=='light')document.documentElement.classList.add('lt')}catch(e){}
+//]]></script>
+<meta content='no-referrer' name='referrer'/>
+<style>
+.aud{margin:6px 0 22px}.audb{display:inline-flex;align-items:center;gap:8px;background:linear-gradient(135deg,#f7e08a,#d4af37 45%,#a67c00);color:#1a1200;border:0;border-radius:30px;padding:10px 24px;font:inherit;font-weight:800;font-size:16px;cursor:pointer;box-shadow:0 6px 20px rgba(212,175,55,.25)}
+.audp{display:none;margin-top:12px;border:1px solid rgba(212,175,55,.45);border-radius:16px;padding:10px 12px;background:#0f0e0a}.audp.on{display:block}.audp audio{width:100%;height:42px}.audp small{display:block;color:#b9a766;margin:0 0 6px;font-size:13px}
+.share .pdfb{border-color:rgba(212,175,55,.6);color:var(--lime)}
+</style>
+<style>
+.nlf{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:0 0 14px}.nlf input{flex:1 1 220px;max-width:340px;min-width:0;background:#141414;border:1px solid rgba(212,175,55,.45);color:#eee;border-radius:30px;padding:10px 18px;font:inherit;font-size:15px;direction:ltr;text-align:center;outline:0}.nlf input:focus{border-color:#d4af37}
+.nlf button{background:linear-gradient(135deg,#f7e08a,#d4af37 45%,#a67c00);color:#1a1200;border:0;border-radius:30px;padding:10px 26px;font:inherit;font-weight:800;cursor:pointer}
+.nlh{margin:34px 0;border:1px solid rgba(212,175,55,.35);border-radius:22px;padding:26px 18px;text-align:center;background:radial-gradient(circle at 80% 0%,rgba(212,175,55,.16),transparent 60%),#121212}.nlh b{display:block;color:#d4af37;font-size:20px;margin-bottom:4px}.nlh p{color:var(--mut);margin:0 0 14px}
+html.lt .nlf input{background:#fffdf7;color:#1f1b10}html.lt .nlh{background:radial-gradient(circle at 80% 0%,rgba(212,175,55,.2),transparent 60%),#fffaf0}
+</style>
+</head>
+<body expr:class='&quot;pt-&quot; + data:blog.pageType'>
+<div class='topbar'><div class='wrap'>
+<a class='brand' expr:href='data:blog.homepageUrl'>متحف الكتابة</a>
+<ul class='menu'>
+<li><a href='/search/label/%D9%86%D8%B5%D9%88%D8%B5'>نصوص</a></li>
+<li><a href='/search/label/%D9%82%D8%B5%D8%B5%20%D9%82%D8%B5%D9%8A%D8%B1%D8%A9'>قصص قصيرة</a></li>
+<li><a href='/p/blog-page_637.html'>بعد الرحلة</a></li>
+<li><a href='/p/blog-page_519.html'>ناسا</a></li>
+<li><a href='/p/blog-page_423.html'>رحلة للعوالم السبعة</a></li>
+<li><a href='/p/blog-page_684.html'>حكايات لم ت&#1615;حكى</a></li>
+<li><a href='/p/blog-page_558.html'>الساعة الملعونة</a></li>
+<li><a href='/p/blog-page_26.html'>مذكرات عادل مرسي</a></li>
+<li><a href='/p/blog-page.html'>من أنا</a></li>
+</ul>
+</div></div>
+<div class='wrap'>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<section class='hero'>
+<h1>و&#1614;م&#1614;ا ن&#1614;ح&#1618;ن&#1615; إ&#1616;ل&#1614;&#1617;ا <em>م&#1615;ح&#1614;اك&#1614;اة&#1612;</em> ل&#1616;م&#1614;ن&#1618; س&#1614;ب&#1614;ق&#1615;ون&#1614;ا</h1>
+<form action='/search' class='hsearch' method='get'><input name='q' placeholder='ابحث عن قصة...' type='search'/><button type='submit'>بحث</button></form>
+<div class='ctas'><a class='cta1' href='/search/label/%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA%20%D8%B9%D8%A7%D8%AF%D9%84%20%D9%85%D8%B1%D8%B3%D9%8A'>ابدأ القراءة</a><a class='cta2' href='/search/label/%D9%86%D8%B5%D9%88%D8%B5' id='rndb'>قصة عشوائية</a><a class='cta2' href='/p/blog-page.html'>تعر&#1617;ف على الكاتب</a></div></section><script>(function(){var b=document.getElementById(&#39;rndb&#39;);if(!b){return}b.addEventListener(&#39;click&#39;,function(ev){ev.preventDefault();fetch(&#39;/feeds/posts/summary?alt=json&amp;max-results=500&#39;).then(function(r){return r.json()}).then(function(j){var es=(j.feed.entry||[]).filter(function(x){return (x.summary?x.summary.$t.length:0)/21|0});if(!es.length){location.href=&#39;/search/label/%D9%86%D8%B5%D9%88%D8%B5&#39;;return}var x=es[Math.floor(Math.random()*es.length)];var l=x.link.filter(function(l){return l.rel==&#39;alternate&#39;})[0].href;location.href=l}).catch(function(){location.href=&#39;/search/label/%D9%86%D8%B5%D9%88%D8%B5&#39;})})})();</script>
+</b:if>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<style>
+@keyframes cvring{0%{transform:rotateY(calc((var(--p,1) - 1) / var(--q,10) * 360deg)) translateZ(var(--z,330px)) rotateX(-2deg)}100%{transform:rotateY(calc((var(--p,1) - 1) / var(--q,10) * 360deg + 360deg)) translateZ(var(--z,330px)) rotateX(-2deg)}}
+.showc{margin:28px 0;padding:34px 16px 26px;border:1px solid rgba(212,175,55,.22);border-radius:24px;background:linear-gradient(160deg,rgba(212,175,55,.09),rgba(10,10,10,0) 60%);text-align:center;overflow:hidden}
+.showc h2{margin:0 0 6px;font-size:28px;color:#d4af37}
+.showc p{margin:0 0 26px;font-size:14px;opacity:.7}
+.ring{height:clamp(220px,30vw,330px);display:flex;justify-content:center;align-items:center;position:relative;perspective:1200px;transform-style:preserve-3d}
+.ring a{position:absolute;inset:0;margin:auto;width:clamp(110px,16vw,175px);aspect-ratio:2/3;animation:cvring 40s linear infinite;--z:340px;display:block;border-radius:6px;border:1px solid rgba(212,175,55,.55);box-shadow:0 14px 30px -12px rgba(0,0,0,.9);overflow:hidden;backface-visibility:visible}
+.ring a img{width:100%;height:100%;object-fit:cover;display:block}
+.ring:hover a{animation-play-state:paused}
+@media (max-width:640px){.ring{height:230px}.ring a{width:92px;--z:150px}}
+html.lt .showc{border-color:rgba(122,90,5,.3)}html.lt .showc h2{color:#7a5a05}
+</style>
+<section class='showc'><h2>من أعمالي</h2><p>مر&#1617;ر مؤشرك فوق الأغلفة لإيقاف الحركة واضغط على أي غلاف لتقرأ</p><div class='ring' style='--q:10'><a href='/2026/11/blog-post_26.html' style='--p:1' title='ناسا'><img alt='غلاف ناسا' loading='lazy' src='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@665b43397da6c3f2b704e92655264cc809961287/nasa.jpg'/></a><a href='/2026/11/blog-post_597.html' style='--p:2' title='الساعة الملعونة'><img alt='غلاف الساعة الملعونة' loading='lazy' src='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-1.jpg'/></a><a href='/2026/11/blog-post_486.html' style='--p:3' title='رحلة للعوالم السبعة'><img alt='غلاف رحلة للعوالم السبعة' loading='lazy' src='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-1.jpg'/></a><a href='/2026/11/blog-post_4986.html' style='--p:4' title='بعد الرحلة'><img alt='غلاف بعد الرحلة' loading='lazy' src='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@665b43397da6c3f2b704e92655264cc809961287/after.jpg'/></a><a href='/2026/11/blog-post_890.html' style='--p:5' title='الساعة الملعونة'><img alt='غلاف الساعة الملعونة' loading='lazy' src='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-4.jpg'/></a><a href='/2026/11/blog-post_190.html' style='--p:6' title='رحلة للعوالم السبعة'><img alt='غلاف رحلة للعوالم السبعة' loading='lazy' src='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-4.jpg'/></a><a href='/2026/11/blog-post_405.html' style='--p:7' title='الساعة الملعونة'><img alt='غلاف الساعة الملعونة' loading='lazy' src='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-8.jpg'/></a><a href='/2026/11/blog-post_478.html' style='--p:8' title='رحلة للعوالم السبعة'><img alt='غلاف رحلة للعوالم السبعة' loading='lazy' src='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-7.jpg'/></a><a href='/2026/11/blog-post_634.html' style='--p:9' title='الساعة الملعونة'><img alt='غلاف الساعة الملعونة' loading='lazy' src='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-11.jpg'/></a><a href='/2026/11/blog-post_871.html' style='--p:10' title='رحلة للعوالم السبعة'><img alt='غلاف رحلة للعوالم السبعة' loading='lazy' src='https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-5.jpg'/></a></div></section>
+</b:if>
+<b:if cond='data:blog.url == &quot;https://museumofstories.blogspot.com/p/blog-page.html&quot;'>
+<div class='author'>
+<img alt='محمد عاشور عبدالعاطي' src='data:image/jpeg;base64,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'/>
+<div>
+<h1>محمد عاشور عبدالعاطي</h1>
+<p>كاتب مصري&#1548; مهتم بالأدب والفلسفة وعلم النفس&#1548; أبحث عن المعنى خلف الأشياء لا عن ظاهرها. أكتب الروايات والنوفيلا&#1548; وأؤمن أن الحكايات ليست مجرد أحداث&#1548; بل أفكار وأسئلة تعيش معنا. أحب الغموض&#1548; وأميل إلى التفكير خارج المألوف&#1548; ولا أبحث عن إجابات جاهزة. أكتب لأفهم العالم بطريقتي&#1548; لا لأ&#1615;رضي الجميع.</p>
+<div class='chips'><span class='chip'>كاتب <b>مصري</b></span><span class='chip'>روايات ونوفيلا</span><span class='chip'>أدب وفلسفة وعلم نفس</span></div>
+</div>
+</div>
+</b:if>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<h2 class='sec'>أحدث الأعمال</h2>
+</b:if>
+<b:if cond='data:blog.searchLabel'>
+<h2 class='sec'><data:blog.searchLabel/></h2>
+</b:if>
+<b:section class='main' id='main' showaddelement='yes'>
+  <b:widget id='Blog1' locked='true' title='رسائل المدونة الإلكترونية' type='Blog'>
+    <b:widget-settings>
+      <b:widget-setting name='showDateHeader'>true</b:widget-setting>
+      <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+      <b:widget-setting name='authorLabel'>By</b:widget-setting>
+      <b:widget-setting name='showCommentLink'>true</b:widget-setting>
+      <b:widget-setting name='showAuthor'>false</b:widget-setting>
+      <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+      <b:widget-setting name='reactionsLabel'/>
+      <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+      <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+      <b:widget-setting name='showLabels'>true</b:widget-setting>
+      <b:widget-setting name='showLocation'>true</b:widget-setting>
+      <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+      <b:widget-setting name='postsPerAd'>3</b:widget-setting>
+      <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+      <b:widget-setting name='showInlineAds'>true</b:widget-setting>
+      <b:widget-setting name='showReactions'>false</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main' var='top'>
+  <b:if cond='!data:mobile'>
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+
+      <b:include data='top' name='status-message'/>
+
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.isDateStart and not data:post.isFirstPost'>
+          &lt;/div&gt;&lt;/div&gt;
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-outer&quot;&gt;
+        </b:if>
+        <b:if cond='data:post.dateHeader'>
+          <h2 class='date-header'><span><data:post.dateHeader/></span></h2>
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-posts&quot;&gt;
+        </b:if>
+        <div class='post-outer'>
+          <b:include data='post' name='post'/>
+          <b:include cond='data:blog.pageType in {&quot;static_page&quot;,&quot;item&quot;}' data='post' name='comment_picker'/>
+        </div>
+
+        <!-- Ad -->
+        <b:if cond='data:post.includeAd'>
+          <div class='inline-ad'>
+            <data:adCode/>
+          </div>
+        </b:if>
+      </b:loop>
+      <b:if cond='data:numPosts != 0'>
+        &lt;/div&gt;&lt;/div&gt;
+      </b:if>
+    </div>
+
+    <!-- navigation -->
+    <b:include name='nextprev'/>
+
+    <!-- feed links -->
+    <b:include name='feedLinks'/>
+
+  <b:else/>
+    <b:include name='mobile-main'/>
+  </b:if>
+</b:includable>
+    <b:includable id='backlinkDeleteIcon' var='backlink'/>
+    <b:includable id='backlinks' var='post'/>
+    <b:includable id='comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+      <h4 id='comment-post-message'>
+        <a expr:id='data:widget.instanceId + &quot;_comment-editor-toggle-link&quot;' href='javascript:void(0)'><data:postCommentMsg/></a></h4>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/>
+    <b:else/>
+      <h4 id='comment-post-message'><data:postCommentMsg/></h4>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    </b:if>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+    <b:includable id='commentDeleteIcon' var='comment'>
+  <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+    <b:if cond='data:showCmtPopup'>
+      <div class='goog-toggle-button'>
+        <div class='goog-inline-block comment-action-icon'/>
+      </div>
+    <b:else/>
+      <a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:top.deleteCommentMsg'>
+        <img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+      </a>
+    </b:if>
+  </span>
+</b:includable>
+    <b:includable id='comment_count_picker' var='post'>
+  <a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'>
+    <data:post.commentLabelFull/>:
+  </a>
+</b:includable>
+    <b:includable id='comment_picker' var='post'>
+  <b:if cond='data:post.showThreadedComments'>
+    <b:include data='post' name='threaded_comments'/>
+  <b:else/>
+    <b:include data='post' name='comments'/>
+  </b:if>
+</b:includable>
+    <b:includable id='comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <b:if cond='data:post.allowComments'>
+      <h4><data:post.commentLabelFull/>:</h4>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <b:if cond='data:post.hasOlderLinks'>
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'><data:post.oldestLinkText/></a>
+              &#160;
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'><data:post.olderLinkText/></a>
+              &#160;
+          </b:if>
+
+          <data:post.commentRangeText/>
+
+          <b:if cond='data:post.hasNewerLinks'>
+            &#160;
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'><data:post.newerLinkText/></a>
+            &#160;
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'><data:post.newestLinkText/></a>
+          </b:if>
+        </span>
+      </b:if>
+
+      <div expr:id='data:widget.instanceId + &quot;_comments-block-wrapper&quot;'>
+        <dl expr:class='data:post.avatarIndentClass' id='comments-block'>
+          <b:loop values='data:post.comments' var='comment'>
+            <dt expr:class='&quot;comment-author &quot; + data:comment.authorClass' expr:id='data:comment.anchorName'>
+              <b:if cond='data:comment.favicon'>
+                <img expr:src='data:comment.favicon' height='16px' style='margin-bottom:-2px;' width='16px'/>
+              </b:if>
+              <a expr:name='data:comment.anchorName'/>
+              <b:if cond='data:blog.enabledCommentProfileImages'>
+                <data:comment.authorAvatarImage/>
+              </b:if>
+              <b:if cond='data:comment.authorUrl'>
+                <a expr:href='data:comment.authorUrl' rel='nofollow'><data:comment.author/></a>
+              <b:else/>
+                <data:comment.author/>
+              </b:if>
+              <data:commentPostedByMsg/>
+            </dt>
+            <dd class='comment-body' expr:id='data:widget.instanceId + data:comment.cmtBodyIdPostfix'>
+              <b:if cond='data:comment.isDeleted'>
+                <span class='deleted-comment'><data:comment.body/></span>
+              <b:else/>
+                <p>
+                  <data:comment.body/>
+                </p>
+              </b:if>
+            </dd>
+            <dd class='comment-footer'>
+              <span class='comment-timestamp'>
+                <a expr:href='data:comment.url' title='comment permalink'>
+                  <data:comment.timestamp/>
+                </a>
+                <b:include data='comment' name='commentDeleteIcon'/>
+              </span>
+            </dd>
+          </b:loop>
+        </dl>
+      </div>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'>
+            <data:post.oldestLinkText/>
+          </a>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'>
+            <data:post.olderLinkText/>
+          </a>
+          &#160;
+          <data:post.commentRangeText/>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'>
+            <data:post.newerLinkText/>
+          </a>
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'>
+            <data:post.newestLinkText/>
+          </a>
+        </span>
+      </b:if>
+
+      <p class='comment-footer'>
+        <b:if cond='data:post.embedCommentForm'>
+          <b:if cond='data:post.allowNewComments'>
+            <b:include data='post' name='comment-form'/>
+          <b:else/>
+            <data:post.noNewCommentsText/>
+          </b:if>
+        <b:elseif cond='data:post.allowComments'/>
+          <a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><data:postCommentMsg/></a>
+        </b:if>
+      </p>
+    </b:if>
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+  </div>
+</b:includable>
+    <b:includable id='feedLinks'>
+  <b:if cond='data:blog.pageType != &quot;item&quot;'> <!-- Blog feed links -->
+    <b:if cond='data:feedLinks'>
+      <div class='blog-feeds'>
+        <b:include data='feedLinks' name='feedLinksBody'/>
+      </div>
+    </b:if>
+
+  <b:else/> <!--Post feed links -->
+    <div class='post-feeds'>
+      <b:loop values='data:posts' var='post'>
+        <b:include cond='data:post.allowComments and data:post.feedLinks' data='post.feedLinks' name='feedLinksBody'/>
+      </b:loop>
+    </div>
+  </b:if>
+</b:includable>
+    <b:includable id='feedLinksBody' var='links'>
+  <div class='feed-links'>
+  <data:feedLinksMsg/>
+  <b:loop values='data:links' var='f'>
+     <a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'><data:f.name/> (<data:f.feedType/>)</a>
+  </b:loop>
+  </div>
+</b:includable>
+    <b:includable id='iframe_comments' var='post'>
+  <!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+    <b:includable id='mobile-index-post' var='post'>
+  <div class='mobile-date-outer date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <div class='date-header'>
+        <span><data:post.dateHeader/></span>
+      </div>
+    </b:if>
+
+    <div class='mobile-post-outer'>
+      <a expr:href='data:post.url'>
+        <h3 class='mobile-index-title entry-title' itemprop='name'>
+          <data:post.title/>
+        </h3>
+
+        <div class='mobile-index-arrow'>&amp;rsaquo;</div>
+
+        <div class='mobile-index-contents'>
+          <b:if cond='data:post.thumbnailUrl'>
+            <div class='mobile-index-thumbnail'>
+              <div class='Image'>
+                <img expr:src='data:post.thumbnailUrl'/>
+              </div>
+            </div>
+          </b:if>
+
+          <div class='post-body'>
+            <b:if cond='data:post.snippet'><data:post.snippet/></b:if>
+          </div>
+        </div>
+
+        <div style='clear: both;'/>
+      </a>
+
+      <div class='mobile-index-comment'>
+        <b:include cond='data:blog.pageType != &quot;static_page&quot;                          and data:post.allowComments                          and data:post.numComments != 0' data='post' name='comment_count_picker'/>
+      </div>
+    </div>
+  </div>
+</b:includable>
+    <b:includable id='mobile-main' var='top'>
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+
+      <b:include data='top' name='status-message'/>
+
+      <b:if cond='data:blog.pageType == &quot;index&quot;'>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-index-post'/>
+        </b:loop>
+      <b:else/>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-post'/>
+        </b:loop>
+      </b:if>
+    </div>
+
+   <b:include name='mobile-nextprev'/>
+</b:includable>
+    <b:includable id='mobile-nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+    <b:if cond='data:newerPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'>&amp;lsaquo;</a>
+      </div>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'>&amp;rsaquo;</a>
+      </div>
+    </b:if>
+
+    <div class='mobile-link-button' id='blog-pager-home-link'>
+    <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
+    </div>
+
+    <div class='mobile-desktop-link'>
+      <a class='home-link' expr:href='data:desktopLinkUrl'><data:desktopLinkMsg/></a>
+    </div>
+
+  </div>
+  <div class='clear'/>
+</b:includable>
+    <b:includable id='mobile-post' var='post'>
+  <div class='date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <h2 class='date-header'><span><data:post.dateHeader/></span></h2>
+    </b:if>
+    <div class='date-posts'>
+      <div class='post-outer'>
+
+        <div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+          <b:if cond='data:post.thumbnailUrl'>
+            <meta expr:content='data:post.thumbnailUrl' itemprop='image_url'/>
+          </b:if>
+          <meta expr:content='data:blog.blogId' itemprop='blogId'/>
+          <meta expr:content='data:post.id' itemprop='postId'/>
+
+          <a expr:name='data:post.id'/>
+          <b:if cond='data:post.title'>
+            <h3 class='post-title entry-title' itemprop='name'>
+              <b:if cond='data:post.link'>
+                <a expr:href='data:post.link'><data:post.title/></a>
+              <b:elseif cond='data:post.url and data:blog.url != data:post.url'/>
+                <a expr:href='data:post.url'><data:post.title/></a>
+              <b:else/>
+                <data:post.title/>
+              </b:if>
+            </h3>
+          </b:if>
+
+          <div class='post-header'>
+            <div class='post-header-line-1'/>
+          </div>
+
+          <div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' itemprop='articleBody'>
+            <data:post.body/>
+            <div style='clear: both;'/> <!-- clear for photos floats -->
+          </div>
+
+          <div class='post-footer'>
+            <div class='post-footer-line post-footer-line-1'>
+              <span class='post-author vcard'>
+                <b:if cond='data:top.showAuthor'>
+                  <b:if cond='data:post.authorProfileUrl'>
+                    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                      <meta expr:content='data:post.authorProfileUrl' itemprop='url'/>
+                      <a expr:href='data:post.authorProfileUrl' rel='author' title='author profile'>
+                        <span itemprop='name'><data:post.author/></span>
+                      </a>
+                    </span>
+                  <b:else/>
+                    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                      <span itemprop='name'><data:post.author/></span>
+                    </span>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-timestamp'>
+                <b:if cond='data:top.showTimestamp'>
+                  <data:top.timestampLabel/>
+                  <b:if cond='data:post.url'>
+                    <meta expr:content='data:post.url.canonical' itemprop='url'/>
+                    <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'><abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'><data:post.timestamp/></abbr></a>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-comment-link'>
+                <b:include cond='data:blog.pageType not in {&quot;item&quot;,&quot;static_page&quot;}                                  and data:post.allowComments' data='post' name='comment_count_picker'/>
+              </span>
+            </div>
+
+            <div class='post-footer-line post-footer-line-2'>
+              <b:if cond='data:top.showMobileShare'>
+                <div class='mobile-link-button goog-inline-block' id='mobile-share-button'>
+                  <a href='javascript:void(0);'><data:shareMsg/></a>
+                </div>
+              </b:if>
+            </div>
+
+          </div>
+        </div>
+
+        <b:include cond='data:blog.pageType in {&quot;static_page&quot;,&quot;item&quot;}' data='post' name='comment_picker'/>
+      </div>
+    </div>
+  </div>
+</b:includable>
+    <b:includable id='nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+    <b:if cond='data:newerPageUrl'>
+      <span id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'><data:newerPageTitle/></a>
+      </span>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <span id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'><data:olderPageTitle/></a>
+      </span>
+    </b:if>
+
+    <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
+
+    <b:if cond='data:mobileLinkUrl'>
+      <div class='blog-mobile-link'>
+        <a expr:href='data:mobileLinkUrl'><data:mobileLinkMsg/></a>
+      </div>
+    </b:if>
+
+  </div>
+  <div class='clear'/>
+</b:includable>
+    <b:includable id='post' var='post'>
+  <div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+    <b:if cond='data:post.firstImageUrl'>
+      <meta expr:content='data:post.firstImageUrl' itemprop='image_url'/>
+    </b:if>
+    <meta expr:content='data:blog.blogId' itemprop='blogId'/>
+    <meta expr:content='data:post.id' itemprop='postId'/>
+
+    <a expr:name='data:post.id'/>
+    <b:if cond='data:post.title'>
+      <h3 class='post-title entry-title' itemprop='name'>
+      <b:if cond='data:post.link or (data:post.url and data:blog.url != data:post.url)'>
+        <a expr:href='data:post.link ? data:post.link : data:post.url'><data:post.title/></a>
+      <b:else/>
+        <data:post.title/>
+      </b:if>
+      </h3>
+    </b:if>
+
+    <div class='post-header'>
+    <div class='post-header-line-1'/>
+    </div>
+
+    <!-- Then use the post body as the schema.org description, for good G+/FB snippeting. -->
+    <div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' expr:itemprop='(data:blog.metaDescription ? &quot;&quot; : &quot;description &quot;) + &quot;articleBody&quot;'>
+      <data:post.body/>
+      <div style='clear: both;'/> <!-- clear for photos floats -->
+    </div>
+
+    <b:if cond='data:post.hasJumpLink'>
+      <div class='jump-link'>
+        <a expr:href='data:post.url + &quot;#more&quot;' expr:title='data:post.title'><data:post.jumpText/></a>
+      </div>
+    </b:if>
+
+    <div class='post-footer'>
+    <div class='post-footer-line post-footer-line-1'>
+      <span class='post-author vcard'>
+        <b:if cond='data:top.showAuthor'>
+          <data:top.authorLabel/>
+            <b:if cond='data:post.authorProfileUrl'>
+              <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                <meta expr:content='data:post.authorProfileUrl' itemprop='url'/>
+                <a class='g-profile' expr:href='data:post.authorProfileUrl' rel='author' title='author profile'>
+                  <span itemprop='name'><data:post.author/></span>
+                </a>
+              </span>
+            <b:else/>
+              <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                <span itemprop='name'><data:post.author/></span>
+              </span>
+            </b:if>
+        </b:if>
+      </span>
+
+      <span class='post-timestamp'>
+        <b:if cond='data:top.showTimestamp'>
+          <data:top.timestampLabel/>
+          <b:if cond='data:post.url'>
+            <meta expr:content='data:post.url.canonical' itemprop='url'/>
+            <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'><abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'><data:post.timestamp/></abbr></a>
+          </b:if>
+        </b:if>
+      </span>
+
+      <span class='post-comment-link'>
+        <b:include cond='data:blog.pageType not in {&quot;item&quot;,&quot;static_page&quot;}                          and data:post.allowComments' data='post' name='comment_count_picker'/>
+      </span>
+
+      <span class='post-icons'>
+        <!-- email post links -->
+        <b:if cond='data:post.emailPostUrl'>
+          <span class='item-action'>
+          <a expr:href='data:post.emailPostUrl' expr:title='data:top.emailPostMsg'>
+            <img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+          </a>
+          </span>
+        </b:if>
+
+        <!-- quickedit pencil -->
+        <b:include data='post' name='postQuickEdit'/>
+      </span>
+
+      <!-- share buttons -->
+      <div class='post-share-buttons goog-inline-block'>
+        <b:include cond='data:post.sharePostUrl' data='post' name='shareButtons'/>
+      </div>
+
+      </div>
+
+      <div class='post-footer-line post-footer-line-2'>
+      <span class='post-labels'>
+        <b:if cond='data:top.showPostLabels and data:post.labels'>
+          <data:postLabelsLabel/>
+          <b:loop values='data:post.labels' var='label'>
+            <a expr:href='data:label.url' rel='tag'><data:label.name/></a><b:if cond='not data:label.isLast'>,</b:if>
+          </b:loop>
+        </b:if>
+      </span>
+      </div>
+
+      <div class='post-footer-line post-footer-line-3'>
+      <span class='post-location'>
+        <b:if cond='data:top.showLocation and data:post.location'>
+          <data:postLocationLabel/>
+          <a expr:href='data:post.location.mapsUrl' target='_blank'><data:post.location.name/></a>
+        </b:if>
+      </span>
+      </div>
+      <b:if cond='data:post.authorAboutMe'>
+        <div class='author-profile' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+          <b:if cond='data:post.authorPhoto.url'>
+            <img expr:src='data:post.authorPhoto.url' itemprop='image' width='50px'/>
+          </b:if>
+          <div>
+            <a class='g-profile' expr:href='data:post.authorProfileUrl' itemprop='url' rel='author' title='author profile'>
+              <span itemprop='name'><data:post.author/></span>
+            </a>
+          </div>
+          <span itemprop='description'><data:post.authorAboutMe/></span>
+        </div>
+      </b:if>
+    </div>
+  </div>
+</b:includable>
+    <b:includable id='postQuickEdit' var='post'>
+  <b:if cond='data:post.editUrl'>
+    <span expr:class='&quot;item-control &quot; + data:post.adminClass'>
+      <a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'>
+        <img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+      </a>
+    </span>
+  </b:if>
+</b:includable>
+    <b:includable id='shareButtons' var='post'>
+  <b:if cond='data:top.showEmailButton'><a class='goog-inline-block share-button sb-email' expr:href='data:post.sharePostUrl + &quot;&amp;target=email&quot;' expr:title='data:top.emailThisMsg' target='_blank'><span class='share-button-link-text'><data:top.emailThisMsg/></span></a></b:if><b:if cond='data:top.showBlogThisButton'><a class='goog-inline-block share-button sb-blog' expr:href='data:post.sharePostUrl + &quot;&amp;target=blog&quot;' expr:onclick='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=270,width=475\&quot;); return false;&quot;' expr:title='data:top.blogThisMsg' target='_blank'><span class='share-button-link-text'><data:top.blogThisMsg/></span></a></b:if><b:if cond='data:top.showTwitterButton'><a class='goog-inline-block share-button sb-twitter' expr:href='data:post.sharePostUrl + &quot;&amp;target=twitter&quot;' expr:title='data:top.shareToTwitterMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToTwitterMsg/></span></a></b:if><b:if cond='data:top.showFacebookButton'><a class='goog-inline-block share-button sb-facebook' expr:href='data:post.sharePostUrl + &quot;&amp;target=facebook&quot;' expr:onclick='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=430,width=640\&quot;); return false;&quot;' expr:title='data:top.shareToFacebookMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToFacebookMsg/></span></a></b:if><b:if cond='data:top.showPinterestButton'><a class='goog-inline-block share-button sb-pinterest' expr:href='data:post.sharePostUrl + &quot;&amp;target=pinterest&quot;' expr:title='data:top.shareToPinterestMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToPinterestMsg/></span></a></b:if>
+</b:includable>
+    <b:includable id='status-message'>
+  <b:if cond='data:navMessage'>
+  <div class='status-msg-wrap'>
+    <div class='status-msg-body'>
+      <data:navMessage/>
+    </div>
+    <div class='status-msg-border'>
+      <div class='status-msg-bg'>
+        <div class='status-msg-hidden'><data:navMessage/></div>
+      </div>
+    </div>
+  </div>
+  <div style='clear: both;'/>
+  </b:if>
+</b:includable>
+    <b:includable id='threaded-comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/>
+    <b:else/>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    </b:if>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+    <b:includable id='threaded_comment_js' var='post'>
+  <script async='async' expr:src='data:post.commentSrc' type='text/javascript'/>
+
+  <script type='text/javascript'>
+    (function() {
+      var items = <data:post.commentJso/>;
+      var msgs = <data:post.commentMsgs/>;
+      var config = <data:post.commentConfig/>;
+
+// <![CDATA[
+      var cursor = null;
+      if (items && items.length > 0) {
+        cursor = parseInt(items[items.length - 1].timestamp) + 1;
+      }
+
+      var bodyFromEntry = function(entry) {
+        var text = (entry &&
+                    ((entry.content && entry.content.$t) ||
+                     (entry.summary && entry.summary.$t))) ||
+            '';
+        if (entry && entry.gd$extendedProperty) {
+          for (var k in entry.gd$extendedProperty) {
+            if (entry.gd$extendedProperty[k].name == 'blogger.contentRemoved') {
+              return '<span class="deleted-comment">' + text + '</span>';
+            }
+          }
+        }
+        return text;
+      }
+
+      var parse = function(data) {
+        cursor = null;
+        var comments = [];
+        if (data && data.feed && data.feed.entry) {
+          for (var i = 0, entry; entry = data.feed.entry[i]; i++) {
+            var comment = {};
+            // comment ID, parsed out of the original id format
+            var id = /blog-(\d+).post-(\d+)/.exec(entry.id.$t);
+            comment.id = id ? id[2] : null;
+            comment.body = bodyFromEntry(entry);
+            comment.timestamp = Date.parse(entry.published.$t) + '';
+            if (entry.author && entry.author.constructor === Array) {
+              var auth = entry.author[0];
+              if (auth) {
+                comment.author = {
+                  name: (auth.name ? auth.name.$t : undefined),
+                  profileUrl: (auth.uri ? auth.uri.$t : undefined),
+                  avatarUrl: (auth.gd$image ? auth.gd$image.src : undefined)
+                };
+              }
+            }
+            if (entry.link) {
+              if (entry.link[2]) {
+                comment.link = comment.permalink = entry.link[2].href;
+              }
+              if (entry.link[3]) {
+                var pid = /.*comments\/default\/(\d+)\?.*/.exec(entry.link[3].href);
+                if (pid && pid[1]) {
+                  comment.parentId = pid[1];
+                }
+              }
+            }
+            comment.deleteclass = 'item-control blog-admin';
+            if (entry.gd$extendedProperty) {
+              for (var k in entry.gd$extendedProperty) {
+                if (entry.gd$extendedProperty[k].name == 'blogger.itemClass') {
+                  comment.deleteclass += ' ' + entry.gd$extendedProperty[k].value;
+                } else if (entry.gd$extendedProperty[k].name == 'blogger.displayTime') {
+                  comment.displayTime = entry.gd$extendedProperty[k].value;
+                }
+              }
+            }
+            comments.push(comment);
+          }
+        }
+        return comments;
+      };
+
+      var paginator = function(callback) {
+        if (hasMore()) {
+          var url = config.feed + '?alt=json&v=2&orderby=published&reverse=false&max-results=50';
+          if (cursor) {
+            url += '&published-min=' + new Date(cursor).toISOString();
+          }
+          window.bloggercomments = function(data) {
+            var parsed = parse(data);
+            cursor = parsed.length < 50 ? null
+                : parseInt(parsed[parsed.length - 1].timestamp) + 1
+            callback(parsed);
+            window.bloggercomments = null;
+          }
+          url += '&callback=bloggercomments';
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url;
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+      };
+      var hasMore = function() {
+        return !!cursor;
+      };
+      var getMeta = function(key, comment) {
+        if ('iswriter' == key) {
+          var matches = !!comment.author
+              && comment.author.name == config.authorName
+              && comment.author.profileUrl == config.authorUrl;
+          return matches ? 'true' : '';
+        } else if ('deletelink' == key) {
+          return config.baseUri + '/comment/delete/'
+               + config.blogId + '/' + comment.id;
+        } else if ('deleteclass' == key) {
+          return comment.deleteclass;
+        }
+        return '';
+      };
+
+      var replybox = null;
+      var replyUrlParts = null;
+      var replyParent = undefined;
+
+      var onReply = function(commentId, domId) {
+        if (replybox == null) {
+          // lazily cache replybox, and adjust to suit this style:
+          replybox = document.getElementById('comment-editor');
+          if (replybox != null) {
+            replybox.height = '250px';
+            replybox.style.display = 'block';
+            replyUrlParts = replybox.src.split('#');
+          }
+        }
+        if (replybox && (commentId !== replyParent)) {
+          replybox.src = '';
+          document.getElementById(domId).insertBefore(replybox, null);
+          replybox.src = replyUrlParts[0]
+              + (commentId ? '&parentID=' + commentId : '')
+              + '#' + replyUrlParts[1];
+          replyParent = commentId;
+        }
+      };
+
+      var hash = (window.location.hash || '#').substring(1);
+      var startThread, targetComment;
+      if (/^comment-form_/.test(hash)) {
+        startThread = hash.substring('comment-form_'.length);
+      } else if (/^c[0-9]+$/.test(hash)) {
+        targetComment = hash.substring(1);
+      }
+
+      // Configure commenting API:
+      var configJso = {
+        'maxDepth': config.maxThreadDepth
+      };
+      var provider = {
+        'id': config.postId,
+        'data': items,
+        'loadNext': paginator,
+        'hasMore': hasMore,
+        'getMeta': getMeta,
+        'onReply': onReply,
+        'rendered': true,
+        'initComment': targetComment,
+        'initReplyThread': startThread,
+        'config': configJso,
+        'messages': msgs
+      };
+
+      var render = function() {
+        if (window.goog && window.goog.comments) {
+          var holder = document.getElementById('comment-holder');
+          window.goog.comments.render(holder, provider);
+        }
+      };
+
+      // render now, or queue to render when library loads:
+      if (window.goog && window.goog.comments) {
+        render();
+      } else {
+        window.goog = window.goog || {};
+        window.goog.comments = window.goog.comments || {};
+        window.goog.comments.loadQueue = window.goog.comments.loadQueue || [];
+        window.goog.comments.loadQueue.push(render);
+      }
+    })();
+// ]]>
+  </script>
+</b:includable>
+    <b:includable id='threaded_comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <h4><data:post.commentLabelFull/>:</h4>
+
+    <div class='comments-content'>
+      <b:include cond='data:post.embedCommentForm' data='post' name='threaded_comment_js'/>
+      <div id='comment-holder'>
+         <data:post.commentHtml/>
+      </div>
+    </div>
+
+    <p class='comment-footer'>
+      <b:if cond='data:post.allowNewComments'>
+        <b:include data='post' name='threaded-comment-form'/>
+      <b:else/>
+        <data:post.noNewCommentsText/>
+      </b:if>
+    </p>
+
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+    <div id='backlinks-container'>
+    <div expr:id='data:widget.instanceId + &quot;_backlinks-container&quot;'>
+    </div>
+    </div>
+  </div>
+</b:includable>
+  </b:widget>
+</b:section>
+<div class='foot'>&#169; متحف الكتابة - محمد عاشور عبدالعاطي</div>
+</div>
+<div class='zoom'><button aria-label='تكبير الخط' id='zp' title='تكبير الخط' type='button'>أ+</button><button aria-label='تصغير الخط' id='zm' title='تصغير الخط' type='button'>أ-</button></div>
+<script>//<![CDATA[
+(function(){
+var k='wm_zoom',z=parseFloat(localStorage.getItem(k))||1;
+function ap(){document.documentElement.style.setProperty('--z',z);localStorage.setItem(k,z)}
+ap();
+document.getElementById('zp').onclick=function(){z=Math.min(1.8,+(z+0.1).toFixed(2));ap()};
+document.getElementById('zm').onclick=function(){z=Math.max(0.8,+(z-0.1).toFixed(2));ap()};
+var cs=document.querySelectorAll('.card');
+for(var i=0;i<cs.length;i++){var r=cs[i].querySelector('.raw'),s=cs[i].querySelector('.snip');
+if(r&&s){var t=(r.textContent||'').replace(/\s+/g,' ').trim();s.textContent=t.length>170?t.slice(0,170)+'...':t}}
+var po=document.querySelectorAll('.pt-index .post-outer,.pt-archive .post-outer');
+for(var q=0;q<po.length;q++){var b=po[q].querySelector('.post-body'),a=po[q].querySelector('.post-title a');
+var tx=b?(b.textContent||'').replace(/\s+/g,' ').trim():'';var p=document.createElement('p');p.className='snip';p.textContent=tx.length>170?tx.slice(0,170)+'...':tx;po[q].appendChild(p);
+if(a){var l=document.createElement('a');l.className='btn';l.href=a.href;l.textContent='اقرأ الآن';po[q].appendChild(l)}}
+var pg=document.querySelectorAll('.blog-pager a,#blog-pager a');for(var w=0;w<pg.length;w++){var x=pg[w].textContent.trim();if(x=='Home'||x=='الصفحة الرئيسية')pg[w].textContent='الرئيسية';else if(x=='رسائل أقدم')pg[w].textContent='الأقدم';else if(x=='رسائل أحدث')pg[w].textContent='الأحدث';else if(x=='Newer Posts')pg[w].textContent='الأحدث';else if(x=='Older Posts')pg[w].textContent='الأقدم'}
+var pt=document.querySelector('.pt-item .post-title');if(pt){var bl=document.createElement('div');bl.className='byline';bl.innerHTML='بقلم <a href="/p/blog-page.html">محمد عاشور عبدالعاطي</a>';pt.parentNode.insertBefore(bl,pt.nextSibling)}
+})();
+//]]></script>
+<script>//<![CDATA[
+(function(){
+var D=['يناير','فبراير','مارس','أبريل','مايو','يونيو','يوليو','أغسطس','سبتمبر','أكتوبر','نوفمبر','ديسمبر'];
+function ar(n){return String(n).replace(/[0-9]/g,function(d){return '٠١٢٣٤٥٦٧٨٩'[d]})}
+function fd(iso){var d=new Date(iso);if(isNaN(d))return '';return ar(d.getDate())+' '+D[d.getMonth()]+' '+ar(d.getFullYear())}
+var m=document.querySelector('.topbar .menu');
+if(m){var f=document.createElement('form');f.className='srch';f.action='/search';f.method='get';f.innerHTML='<input name="q" type="search" placeholder="ابحث..."/><button type="submit">بحث</button>';m.parentNode.appendChild(f)}
+var it=document.querySelector('.pt-item .post-outer');
+if(it){var ab=it.querySelector('abbr.published'),lb=it.querySelector('.post-labels a'),by=it.querySelector('.byline');
+var mt=document.createElement('div');mt.className='meta2';
+if(ab)mt.innerHTML+='<span>'+fd(ab.getAttribute('title'))+'</span>';
+if(lb){var tg=document.createElement('a');tg.className='tag';tg.href=lb.href;tg.textContent=lb.textContent;mt.appendChild(tg)}
+if(by)by.parentNode.insertBefore(mt,by.nextSibling);
+var u=encodeURIComponent(location.href.split('?')[0]),t=encodeURIComponent(document.title);
+var sh=document.createElement('div');sh.className='share';
+sh.innerHTML='<span>شارك:</span><a target="_blank" rel="noopener" href="https://wa.me/?text='+t+'%20'+u+'">واتساب</a><a target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u='+u+'">فيسبوك</a><a target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url='+u+'&text='+t+'">X</a><button type="button" id="cpl">نسخ الرابط</button>';
+var bd=it.querySelector('.post-body');bd.parentNode.insertBefore(sh,bd.nextSibling);
+document.getElementById('cpl').onclick=function(){var b=this;(navigator.clipboard?navigator.clipboard.writeText(location.href.split('?')[0]):Promise.reject()).then(function(){b.textContent='تم النسخ'},function(){b.textContent='انسخه من شريط العنوان'})};
+var nw=document.querySelector('#blog-pager-newer-link a'),od=document.querySelector('#blog-pager-older-link a');
+if(nw||od){var pn=document.createElement('div');pn.className='pn';pn.innerHTML=(od?'<a href="'+od.href+'">&rarr; القصة السابقة</a>':'')+(nw?'<a href="'+nw.href+'">القصة التالية &larr;</a>':'');sh.parentNode.insertBefore(pn,sh.nextSibling)}}
+var cs=document.querySelectorAll('.pt-index .post-outer,.pt-archive .post-outer');
+for(var i=0;i<cs.length;i++){var c=cs[i],im=c.querySelector('.post-body img'),a2=c.querySelector('abbr.published'),h=c.querySelector('h3');
+if(im){var g=document.createElement('img');g.className='cov';g.loading='lazy';g.decoding='async';g.src=im.src;g.alt='';c.insertBefore(g,c.firstChild)}
+if(a2&&h){var dd=document.createElement('div');dd.className='meta2';dd.textContent=fd(a2.getAttribute('title'));h.parentNode.insertBefore(dd,h.nextSibling)}}
+var ft=document.querySelector('.foot');if(ft){ft.innerHTML='<div class="soc" id="soc"><a class="sbtn" href="https://www.facebook.com/Ashour.Walker" rel="me noopener" target="_blank">فيسبوك</a><a class="sbtn" href="https://www.tiktok.com/@moashour31" rel="me noopener" target="_blank">تيك توك</a><a class="sbtn" href="https://chat.whatsapp.com/I1VB3XGnd0JIbYiJ6ZrX8R?s=cl&amp;p=a&amp;iam=2" rel="noopener" target="_blank">انضم لجروب القرّاء على واتساب</a></div><div class="sfoot">© متحف الكتابة - محمد عاشور عبدالعاطي</div>'}
+})();
+//]]></script>
+<script>//<![CDATA[
+(function(){
+if(!document.body.classList.contains('pt-index'))return;
+var lb=[['مذكرات عادل مرسي','%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA%20%D8%B9%D8%A7%D8%AF%D9%84%20%D9%85%D8%B1%D8%B3%D9%8A'],['الساعة الملعونة','%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9%20%D8%A7%D9%84%D9%85%D9%84%D8%B9%D9%88%D9%86%D8%A9'],['رحلة للعوالم السبعة','%D8%B1%D8%AD%D9%84%D8%A9%20%D9%84%D9%84%D8%B9%D9%88%D8%A7%D9%84%D9%85%20%D8%A7%D9%84%D8%B3%D8%A8%D8%B9%D8%A9'],['حكايات لم تُحكى','%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA%20%D9%84%D9%85%20%D8%AA%D9%8F%D8%AD%D9%83%D9%89'],['نوفيلات','%D9%86%D9%88%D9%81%D9%8A%D9%84%D8%A7%D8%AA'],['قصص قصيرة','%D9%82%D8%B5%D8%B5%20%D9%82%D8%B5%D9%8A%D8%B1%D8%A9']];
+var h=document.createElement('div');h.innerHTML='<h2 class="sec">تصفّح السلاسل</h2><div class="series">'+lb.map(function(x){return '<a href="/search/label/'+x[1]+'">'+x[0]+'<small>عرض الكل &larr;</small></a>'}).join('')+'</div>';
+var sec=document.querySelector('h2.sec');var host=document.querySelector('.foot');if(host)host.parentNode.insertBefore(h,host);
+})();
+//]]></script>
+<style>
+.card .cov{width:62%;height:auto;aspect-ratio:5/8;object-fit:cover;display:block;margin:0 auto 10px;box-shadow:0 8px 24px rgba(0,0,0,.5)}
+.coverfig{margin:6px 0 26px!important}.sealfig{margin:34px 0 10px!important;text-align:center}.sealfig img{opacity:.95}
+#rp{position:fixed;top:0;right:0;height:3px;width:0;background:linear-gradient(90deg,#a8841c,#f3d77a);z-index:99;transition:width .1s}
+.rt{color:var(--lime)}
+.rel{margin:30px 0}.rel h2{font-size:20px;color:var(--lime);margin:0 0 14px}.relg{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+.relg a{display:block;border:1px solid var(--line);border-radius:14px;background:#141414;color:#eee;text-decoration:none;padding:10px;font-weight:700;line-height:1.7}.relg a img{width:100%;aspect-ratio:5/8;object-fit:cover;border-radius:8px;margin-bottom:8px;display:block}
+.subs{margin:26px 0;border:1px solid rgba(212,175,55,.35);border-radius:18px;padding:20px;text-align:center;background:radial-gradient(circle at 80% 0%,rgba(212,175,55,.14),transparent 60%),#121212}
+.subs b{display:block;color:var(--lime);font-size:18px;margin-bottom:6px}.subs p{color:var(--mut);margin:0 0 14px}.subs .sbtn{display:inline-block;margin:4px}
+#totop{position:fixed;bottom:18px;left:18px;width:44px;height:44px;border-radius:50%;border:1px solid rgba(212,175,55,.5);background:#151515;color:#d4af37;font-size:20px;cursor:pointer;display:none;z-index:98}
+.comments{background:#141414!important;color:#ddd!important;border:1px solid var(--line)}
+.comments a{color:#d4af37}
+</style>
+<script>//<![CDATA[
+(function(){
+function ar(n){return String(n).replace(/[0-9]/g,function(d){return '٠١٢٣٤٥٦٧٨٩'[d]})}
+function rtx(n){return n<=1?'دقيقة قراءة':n==2?'دقيقتان قراءة':n<=10?ar(n)+' دقائق قراءة':ar(n)+' دقيقة قراءة'}
+var cs=document.querySelectorAll('.pt-index .post-outer,.pt-archive .post-outer');for(var c=0;c<cs.length;c++){var bb=cs[c].querySelector('.post-body'),m2=cs[c].querySelector('.meta2');if(bb&&m2){var ww=(bb.textContent||'').replace(/\s+/g,' ').trim().split(' ').length;var sp=document.createElement('span');sp.className='rt';sp.textContent='\u23F1 '+rtx(Math.max(1,Math.round(ww/180)));m2.appendChild(sp)}}
+var tt=document.createElement('button');tt.id='totop';tt.setAttribute('aria-label','لأعلى');tt.innerHTML='&uarr;';tt.onclick=function(){window.scrollTo({top:0,behavior:'smooth'})};document.body.appendChild(tt);
+var bar=null,it=document.querySelector('.pt-item .post-outer');
+if(it){bar=document.createElement('div');bar.id='rp';document.body.appendChild(bar);
+var bd=it.querySelector('.post-body'),w=(bd.innerText||'').replace(/\s+/g,' ').trim().split(' ').length,mn=Math.max(1,Math.round(w/180));
+var mt=it.querySelector('.meta2');if(mt){var s=document.createElement('span');s.className='rt';s.textContent=rtx(mn);mt.appendChild(s)}
+var sh=it.querySelector('.share');
+var sb=document.createElement('div');sb.className='subs';sb.innerHTML='<b>لا تفوّت جديد المتحف</b><p>تابع القصص الجديدة أول بأول</p><a class="sbtn" href="https://chat.whatsapp.com/I1VB3XGnd0JIbYiJ6ZrX8R?s=cl&p=a&iam=2" target="_blank" rel="noopener">جروب القرّاء على واتساب</a><a class="sbtn" href="/feeds/posts/default" target="_blank">اشتراك RSS</a><a class="sbtn" href="https://www.facebook.com/Ashour.Walker" target="_blank" rel="noopener">تابعني على فيسبوك</a>';
+var anchor=it.querySelector('.pn')||sh;if(anchor)anchor.parentNode.insertBefore(sb,anchor.nextSibling);
+var tg=it.querySelector('.tag');
+if(tg){var lab=tg.textContent.trim();var x=new XMLHttpRequest();x.open('GET','/feeds/posts/default/-/'+encodeURIComponent(lab)+'?alt=json&max-results=7');x.onload=function(){try{var e=JSON.parse(x.responseText).feed.entry||[],h='',c=0,cur=location.pathname;
+e.forEach(function(p){var l=p.link.filter(function(k){return k.rel=='alternate'})[0].href;if(l.indexOf(cur)>-1||c>=3)return;c++;var im=(p.content&&p.content.$t.match(/<img[^>]+src="([^"]+)"/)||[])[1];h+='<a href="'+l+'">'+(im?'<img loading="lazy" alt="" src="'+im+'"/>':'')+p.title.$t+'</a>'});
+if(h){var r=document.createElement('div');r.className='rel';r.innerHTML='<h2>اقرأ أيضًا</h2><div class="relg">'+h+'</div>';sb.parentNode.insertBefore(r,sb)}}catch(_){}};x.send()}}
+function sc(){var y=window.pageYOffset,H=document.documentElement.scrollHeight-window.innerHeight;if(bar)bar.style.width=(H>0?Math.min(100,y/H*100):0)+'%';tt.style.display=y>600?'block':'none'}
+window.addEventListener('scroll',sc,{passive:true});sc();
+})();
+//]]></script>
+<script>//<![CDATA[
+(function(){function tr(){var m={'No comments:':'لا توجد تعليقات بعد','Post a Comment':'اترك تعليقًا','Newer Post':'الأحدث','Older Post':'الأقدم','Home':'الرئيسية'};var e=document.querySelectorAll('.comments h4,.comments h3,.comments .comment-form h4,.comments a,.comments span');for(var i=0;i<e.length;i++){var t=e[i].textContent.trim();if(m[t]&&!e[i].children.length)e[i].textContent=m[t]}}
+tr();setTimeout(tr,1500);})();
+//]]></script>
+<style>.soc{flex-wrap:wrap}.sbtn{white-space:nowrap;display:inline-block}.mobile-link-button,.blog-mobile-link{display:none!important}.comments iframe{width:100%!important;max-width:100%;min-height:240px}</style>
+<script>//<![CDATA[
+(function(){
+var b=document.body,cl=b.classList;
+if(document.querySelector('.wrap>section.hero'))cl.add('is-home');
+if(cl.contains('pt-item')||cl.contains('pt-static_page'))return;
+var m=document.querySelector('#main');if(!m)return;
+var has=!!m.querySelector('.post-outer');
+var u=new URL(location.href),q=u.searchParams.get('q');
+function box(t,h,extra){var d=document.createElement('div');d.className='emp';d.innerHTML='<b>'+t+'</b><p>'+h+'</p>'+(extra||'');m.insertBefore(d,m.firstChild)}
+var acts='<div class="ctas"><a class="cta1" href="/">الرئيسية</a><a class="cta2" href="/search/label/%D9%82%D8%B5%D8%B5%20%D9%82%D8%B5%D9%8A%D8%B1%D8%A9">تصفّح القصص</a></div>';
+if(cl.contains('pt-error_page')||(!has&&!q&&!/\/search\/label\//.test(location.pathname)&&location.pathname!='/')){
+box('الصفحة غير موجودة','ربما تغيّر الرابط أو حُذفت الصفحة. ارجع للرئيسية أو تصفّح القصص.',acts);document.title='الصفحة غير موجودة - متحف الكتابة';return}
+if(q&&!has){box('لا توجد نتائج','لم نجد شيئًا عن «'+q.replace(/</g,'')+'». جرّب كلمة أخرى أو تصفّح الأقسام.',acts);return}
+if(q&&has&&!document.querySelector('h2.sec')){var h=document.createElement('h2');h.className='sec';h.textContent='نتائج البحث: «'+q.replace(/</g,'')+'»';m.insertBefore(h,m.firstChild)}
+if(!has&&/\/search\/label\//.test(location.pathname)){box('قريبًا','لا توجد نصوص في هذا القسم بعد، والجديد في الطريق.',acts)}
+// drop an "older" link that leads nowhere
+var ol=document.querySelector('#blog-pager-older-link a');
+if(ol){var mr=/max-results=(\d+)/.exec(ol.href),n=document.querySelectorAll('.pt-index .post-outer,.pt-archive .post-outer').length;if(mr&&n&&n<+mr[1]){ol.parentNode.removeChild(ol)}}
+})();
+//]]></script>
+<style>
+#hb,#dr,#dov{display:none}
+@media(max-width:700px){
+.topbar .menu{display:none!important}
+#hb{display:flex;align-items:center;justify-content:center;width:42px;height:42px;border-radius:12px;border:1px solid rgba(212,175,55,.5);background:#151515;color:#d4af37;font-size:22px;cursor:pointer;order:2;margin-inline-start:auto}
+.topbar .wrap{gap:8px;padding-top:6px;padding-bottom:6px}
+.srch{margin:0 0 8px!important}.srch input{width:60%!important;flex:1}
+#dov{display:block;position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:200;opacity:0;pointer-events:none;transition:.25s}
+#dr{display:flex;flex-direction:column;position:fixed;top:0;bottom:0;right:0;width:78%;max-width:300px;background:#111;border-left:1px solid rgba(212,175,55,.4);z-index:201;padding:18px 16px;transform:translateX(100%);transition:.25s;overflow:auto}
+body.dopen #dr{transform:none}body.dopen #dov{opacity:1;pointer-events:auto}
+#dr .dt{color:#d4af37;font-weight:900;font-size:20px;margin:4px 0 16px;display:flex;justify-content:space-between;align-items:center}
+#dr .dt button{background:none;border:0;color:#ddd;font-size:26px;cursor:pointer}
+#dr a{display:block;padding:12px 14px;border-radius:12px;color:#eee;border:1px solid transparent;font-weight:600}
+#dr a:hover,#dr a.cur{border-color:#d4af37;color:#d4af37}
+}
+</style>
+<script>//<![CDATA[
+(function(){var m=document.querySelector('.topbar .menu');if(!m)return;var w=document.querySelector('.topbar .wrap');
+var b=document.createElement('button');b.id='hb';b.type='button';b.setAttribute('aria-label','القائمة');b.innerHTML='&#9776;';w.appendChild(b);
+var d=document.createElement('div');d.id='dr';d.innerHTML='<div class="dt"><span>متحف الكتابة</span><button type="button" aria-label="إغلاق">&times;</button></div>';
+var as=m.querySelectorAll('a');for(var i=0;i<as.length;i++){var a=document.createElement('a');a.href=as[i].href;a.textContent=as[i].textContent;d.appendChild(a)}
+var o=document.createElement('div');o.id='dov';document.body.appendChild(o);document.body.appendChild(d);
+function t(f){document.body.classList.toggle('dopen',f)}
+b.onclick=function(){t(true)};o.onclick=function(){t(false)};d.querySelector('button').onclick=function(){t(false)};
+})();
+//]]></script>
+<script>//<![CDATA[
+(function(){
+function ar(n){return String(n).replace(/[0-9]/g,function(d){return '\u0660\u0661\u0662\u0663\u0664\u0665\u0666\u0667\u0668\u0669'[d]})}
+var API='https://countapi.mileshilliard.com/api/v1/';
+function key(p){return 'wm-'+p.replace(/^\/+|\.html$/g,'').replace(/[^a-z0-9]+/gi,'-')}
+function pathOf(h){try{return new URL(h,location.href).pathname}catch(e){return h}}
+var cache={};
+function getv(p,inc){var k=key(p);if(!inc&&cache[k])return cache[k];
+var pr=fetch(API+(inc?'hit/':'get/')+k).then(function(r){return r.ok?r.json():{value:0}}).then(function(j){return +j.value||0}).catch(function(){return null});
+if(!inc)cache[k]=pr;return pr}
+function vt(n){return '\uD83D\uDC41 '+ar(n)+' \u0645\u0634\u0627\u0647\u062F\u0629'}
+// theme toggle
+var root=document.documentElement,w=document.querySelector('.topbar .wrap');
+if(w){var tb=document.createElement('button');tb.id='thm';tb.type='button';
+function ic(){var l=root.classList.contains('lt');tb.textContent=l?'\uD83C\uDF19':'\u2600\uFE0F';tb.setAttribute('aria-label',l?'\u0627\u0644\u0648\u0636\u0639 \u0627\u0644\u0644\u064A\u0644\u064A':'\u0627\u0644\u0648\u0636\u0639 \u0627\u0644\u0646\u0647\u0627\u0631\u064A');tb.title=tb.getAttribute('aria-label')}
+tb.onclick=function(){root.classList.toggle('lt');try{localStorage.setItem('wm_theme',root.classList.contains('lt')?'light':'dark')}catch(e){}ic()};ic();w.appendChild(tb)}
+// view counts on cards
+var cs=document.querySelectorAll('.pt-index .post-outer,.pt-archive .post-outer');
+for(var i=0;i<cs.length;i++)(function(c){var a=c.querySelector('.post-title a'),m=c.querySelector('.meta2');if(!a||!m)return;
+getv(pathOf(a.href)).then(function(n){if(n===null)return;var s=document.createElement('span');s.className='vw';s.textContent=vt(n);m.appendChild(s)})})(cs[i]);
+// story page: count + quote card
+var it=document.querySelector('.pt-item .post-outer');
+if(it){var p=location.pathname,sk='wm_v_'+key(p),seen=false;try{seen=localStorage.getItem(sk)}catch(e){}
+var inc=!seen&&!navigator.webdriver;
+getv(p,inc).then(function(n){if(inc){try{localStorage.setItem(sk,'1')}catch(e){}}
+if(n===null){return getv(p)}return n}).then(function(n){if(n===null||n===undefined)return;var m=it.querySelector('.meta2');if(m){var s=document.createElement('span');s.className='vw';s.textContent=vt(n);m.appendChild(s)}});
+var QM={'/2026/11/3.html':'\u0627\u0644\u0648\u062D\u062F\u0629 \u0645\u0634 \u0625\u0646 \u0645\u062D\u062F\u0634 \u064A\u0631\u0646 \u0639\u0644\u064A\u0643\u2026 \u062F\u064A \u0644\u0645\u0627 \u062A\u0628\u062A\u062F\u064A \u062A\u0641\u0642\u062F \u0635\u0648\u062A\u0643 \u0627\u0644\u062F\u0627\u062E\u0644\u064A'};
+var q=QM[p];var bd=it.querySelector('.post-body');
+if(!q&&bd){var ss=(bd.innerText||'').split(/[\n\u2026.!\u061F?]+/).map(function(s){return s.trim()}).filter(function(s){return s.length>=35&&s.length<=110});if(ss.length)q=ss[Math.floor(ss.length/2)]}
+if(q){var ttl=(it.querySelector('.post-title')||{}).textContent||document.title;ttl=ttl.trim();
+var qc=document.createElement('div');qc.className='qc';
+qc.innerHTML='<h2>\u0627\u0642\u062A\u0628\u0627\u0633 \u0645\u0646 \u0627\u0644\u0642\u0635\u0629</h2><div class="qm">\u275D</div><p class="qt"></p><div class="qa">\u0645\u062D\u0645\u062F \u0639\u0627\u0634\u0648\u0631 \u0639\u0628\u062F\u0627\u0644\u0639\u0627\u0637\u064A \u00B7 \u0645\u062A\u062D\u0641 \u0627\u0644\u0643\u062A\u0627\u0628\u0629</div><div class="qb"><button type="button" data-f="fb">\u062A\u062D\u0645\u064A\u0644 \u0643\u0627\u0631\u062A \u0641\u064A\u0633\u0628\u0648\u0643</button><button type="button" data-f="tt">\u062A\u062D\u0645\u064A\u0644 \u0643\u0627\u0631\u062A \u062A\u064A\u0643 \u062A\u0648\u0643</button><button type="button" class="g" data-f="sh">\u0634\u0627\u0631\u0643 \u0627\u0644\u0627\u0642\u062A\u0628\u0627\u0633</button></div>';
+qc.querySelector('.qt').textContent=q;
+var sh=it.querySelector('.share');(sh||bd).parentNode.insertBefore(qc,sh||bd.nextSibling);
+function draw(W,H){var c=document.createElement('canvas');c.width=W;c.height=H;var x=c.getContext('2d');
+var g=x.createRadialGradient(W/2,0,50,W/2,0,H*0.8);g.addColorStop(0,'#2a2210');g.addColorStop(1,'#0b0b0b');x.fillStyle=g;x.fillRect(0,0,W,H);
+x.strokeStyle='#d4af37';x.lineWidth=3;x.strokeRect(46,46,W-92,H-92);x.strokeStyle='rgba(212,175,55,.35)';x.lineWidth=1.5;x.strokeRect(62,62,W-124,H-124);
+x.direction='rtl';x.textAlign='center';x.textBaseline='middle';
+var F="'Cairo',Tahoma,sans-serif";
+x.fillStyle='#d4af37';x.font='900 160px '+F;x.fillText('\u275D',W/2,H*0.2);
+var fs=H>1500?74:66,maxw=W-240,lines;
+for(;fs>30;fs-=2){x.font='700 '+fs+'px '+F;var ws=q.split(' '),cur='';lines=[];ws.forEach(function(t){var tr=cur?cur+' '+t:t;if(x.measureText(tr).width>maxw&&cur){lines.push(cur);cur=t}else cur=tr});lines.push(cur);if(lines.length<=(H>1500?10:7))break}
+var lh=fs*1.75,y0=H*0.5-(lines.length-1)*lh/2;x.fillStyle='#f6ecc6';lines.forEach(function(l,i){x.fillText(l,W/2,y0+i*lh)});
+var yb=y0+(lines.length-1)*lh+lh*1.1;x.strokeStyle='#d4af37';x.lineWidth=2;x.beginPath();x.moveTo(W/2-60,yb);x.lineTo(W/2+60,yb);x.stroke();
+x.fillStyle='#d4af37';x.font='700 38px '+F;x.fillText('\u00AB'+ttl+'\u00BB',W/2,yb+60);
+x.fillStyle='#e9d9a0';x.font='600 34px '+F;x.fillText('\u0645\u062D\u0645\u062F \u0639\u0627\u0634\u0648\u0631 \u0639\u0628\u062F\u0627\u0644\u0639\u0627\u0637\u064A',W/2,H-210);
+x.fillStyle='#d4af37';x.font='900 44px '+F;x.fillText('\u0645\u062A\u062D\u0641 \u0627\u0644\u0643\u062A\u0627\u0628\u0629',W/2,H-150);
+x.direction='ltr';x.fillStyle='#b9a766';x.font='500 30px Arial,sans-serif';x.fillText('museumofstories.blogspot.com',W/2,H-100);return c}
+function mk(f,cb){var W=1080,H=f=='tt'?1920:1350;(document.fonts&&document.fonts.load?Promise.all([document.fonts.load('700 40px Cairo','\u0627'),document.fonts.load('900 40px Cairo','\u0627')]):Promise.resolve()).catch(function(){}).then(function(){draw(W,H).toBlob(function(b){cb(b,'quote-'+f+'.png')},'image/png')})}
+qc.addEventListener('click',function(e){var f=e.target.getAttribute&&e.target.getAttribute('data-f');if(!f)return;
+mk(f=='sh'?'fb':f,function(b,n){if(f=='sh'){var file=new File([b],n,{type:'image/png'});if(navigator.canShare&&navigator.canShare({files:[file]})){navigator.share({files:[file],text:q+'\n'+location.href.split('?')[0]}).catch(function(){})}else{navigator.clipboard&&navigator.clipboard.writeText(q+'\n'+location.href.split('?')[0]);var a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=n;a.click()}}
+else{var a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=n;document.body.appendChild(a);a.click();a.remove()}})});
+window.__wmDraw=draw}}
+// most read
+if(document.body.classList.contains('pt-index')&&!/\/search\/label\//.test(location.pathname)||location.pathname=='/'){
+var sr=document.querySelector('.series');if(sr&&sr.parentNode.parentNode&&!document.querySelector('.mr')){
+fetch('/feeds/posts/default?alt=json&max-results=30').then(function(r){return r.json()}).then(function(j){var es=(j.feed.entry||[]).map(function(e){var l=e.link.filter(function(k){return k.rel=='alternate'})[0].href;return{t:e.title.$t,l:l,im:((e.content&&e.content.$t.match(/<img[^>]+src="([^"]+)"/))||[])[1]}});if(!es.length)return;
+return Promise.all(es.map(function(e){return getv(pathOf(e.l)).then(function(n){e.n=n||0;return e})})).then(function(L){L.sort(function(a,b){return b.n-a.n});L=L.slice(0,3);
+var h=L.map(function(e,i){return '<a href="'+e.l+'"><span class="n">'+ar(i+1)+'</span>'+(e.im?'<img loading="lazy" alt="" src="'+e.im+'"/>':'')+'<span>'+e.t+'<small>'+vt(e.n)+'</small></span></a>'}).join('');
+var d=document.createElement('div');d.className='mr';d.innerHTML='<h2 class="sec">\u0627\u0644\u0623\u0643\u062B\u0631 \u0642\u0631\u0627\u0621\u0629</h2><div class="mrg">'+h+'</div>';sr.parentNode.parentNode.insertBefore(d,sr.parentNode)})}).catch(function(){})}}
+})();
+//]]></script>
+<script>//<![CDATA[
+(function(){
+var it=document.querySelector('.pt-item .post-outer');if(!it)return;
+var AU={'/2026/11/blog-post_26.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio4@85fcf56f8cfb07fa9839a847cd65e423646e1344/nasa.mp3','حوالي 56 دقيقة'],'/2026/11/blog-post_4986.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio4@85fcf56f8cfb07fa9839a847cd65e423646e1344/after.mp3','حوالي 72 دقيقة'],'/2026/11/blog-post_238.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a28.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_130.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a29.mp3','\u062D\u0648\u0627\u0644\u064A 6 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_771.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a30.mp3','\u062D\u0648\u0627\u0644\u064A 3 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_486.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a31.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_9841.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a32.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_814.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a33.mp3','\u062D\u0648\u0627\u0644\u064A 3 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_190.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a34.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_871.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a35.mp3','\u062D\u0648\u0627\u0644\u064A 4 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_724.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a36.mp3','\u062D\u0648\u0627\u0644\u064A 6 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_478.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a37.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_870.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a38.mp3','\u062D\u0648\u0627\u0644\u064A 6 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_795.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a39.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_229.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a40.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_825.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a41.mp3','\u062D\u0648\u0627\u0644\u064A 4 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_323.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a42.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_52.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a43.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_979.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a44.mp3','\u062D\u0648\u0627\u0644\u064A 6 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_597.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a45.mp3','\u062D\u0648\u0627\u0644\u064A 11 \u062F\u0642\u064A\u0642\u0629'],'/2026/11/blog-post_864.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a46.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_694.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a47.mp3','\u062D\u0648\u0627\u0644\u064A 6 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_890.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a48.mp3','\u062D\u0648\u0627\u0644\u064A 6 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_327.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a49.mp3','\u062D\u0648\u0627\u0644\u064A 6 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_618.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a50.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_836.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a51.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_405.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a52.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_933.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a53.mp3','\u062D\u0648\u0627\u0644\u064A 4 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_164.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a54.mp3','\u062D\u0648\u0627\u0644\u064A 6 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_634.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a55.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_522.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a56.mp3','\u062D\u0648\u0627\u0644\u064A 4 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_599.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a57.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_283.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a58.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_409.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a59.mp3','\u062D\u0648\u0627\u0644\u064A 7 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_738.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a60.mp3','\u062D\u0648\u0627\u0644\u064A 7 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_99.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a61.mp3','\u062D\u0648\u0627\u0644\u064A 6 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_369.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a62.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_665.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a63.mp3','\u062D\u0648\u0627\u0644\u064A 6 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_407.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a64.mp3','\u062D\u0648\u0627\u0644\u064A 5 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_361.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a65.mp3','\u062D\u0648\u0627\u0644\u064A 7 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/blog-post_96.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a66.mp3','\u062D\u0648\u0627\u0644\u064A 6 \u062F\u0642\u0627\u0626\u0642'],'/2026/01/6.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a10.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2026/01/blog-post.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a11.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u062A\u064A\u0646'],'/2026/03/blog-post.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a12.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u062A\u064A\u0646'],'/2026/05/blog-post.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a13.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2026/05/blog-post_12.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a14.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u062A\u064A\u0646'],'/2026/05/blog-post_21.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a15.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2026/06/blog-post.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a16.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2026/07/blog-post.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a17.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2026/07/blog-post_24.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a18.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2026/07/blog-post_30.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a19.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2025/08/blog-post_07.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a2.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2026/08/blog-post.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a20.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2026/08/blog-post_23.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a21.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2026/08/blog-post_987.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a22.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u062A\u064A\u0646'],'/2026/08/blog-post_24.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a23.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2026/08/blog-post_25.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a24.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u062A\u064A\u0646'],'/2026/09/blog-post.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a25.mp3','\u062D\u0648\u0627\u0644\u064A 6 \u062F\u0642\u0627\u0626\u0642'],'/2026/09/blog-post_07.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/a26.mp3','\u062D\u0648\u0627\u0644\u064A 3 \u062F\u0642\u0627\u0626\u0642'],'/2026/09/blog-post_11.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a27.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u062A\u064A\u0646'],'/2025/09/blog-post_03.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a6.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2025/09/blog-post_08.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/a7.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2025/10/blog-post.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/a9.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u0629'],'/2026/11/blog-post_25.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/c2.mp3','\u062D\u0648\u0627\u0644\u064A \u062B\u0644\u0627\u062B \u062F\u0642\u0627\u0626\u0642'],'/2025/08/blog-post_27.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/c6.mp3','\u062D\u0648\u0627\u0644\u064A \u062B\u0644\u0627\u062B \u062F\u0642\u0627\u0626\u0642'],'/2025/09/blog-post.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/c3.mp3','\u062D\u0648\u0627\u0644\u064A \u062B\u0644\u0627\u062B \u062F\u0642\u0627\u0626\u0642'],'/2025/09/blog-post_21.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio@a8448d6beb88ad6693d84f909f959e3d64e4a097/c5.mp3','\u062D\u0648\u0627\u0644\u064A \u062B\u0644\u0627\u062B \u062F\u0642\u0627\u0626\u0642'],'/2025/08/blog-post.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/c4.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u062A\u064A\u0646 \u0648\u0646\u0635\u0641'],'/2026/11/1.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio2@88033f113ef42a2490e17a5eeafbd9cd36ce0003/c7.mp3','\u062D\u0648\u0627\u0644\u064A \u0623\u0631\u0628\u0639 \u062F\u0642\u0627\u0626\u0642'],'/2026/11/3.html':['https://cdn.jsdelivr.net/gh/museum-of-stories-audio/audio3@e838a562403f666c2d18e5241724fe836636ea2d/c1.mp3','\u062D\u0648\u0627\u0644\u064A \u062F\u0642\u064A\u0642\u062A\u064A\u0646 \u0648\u0646\u0635\u0641']};
+var CV={"/2026/11/blog-post_238.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c01.jpg", "/2026/11/blog-post_130.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c02.jpg", "/2026/11/blog-post_771.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c03.jpg", "/2026/11/blog-post_870.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c04.jpg", "/2026/11/blog-post_795.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c05.jpg", "/2026/11/blog-post_229.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c06.jpg", "/2026/11/blog-post_825.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c07.jpg", "/2026/11/blog-post_323.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c08.jpg", "/2026/11/blog-post_52.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c09.jpg", "/2026/11/blog-post_979.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c10.jpg", "/2026/11/blog-post_522.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c11.jpg", "/2026/11/blog-post_599.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c12.jpg", "/2026/11/blog-post_283.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c13.jpg", "/2026/11/blog-post_409.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c14.jpg", "/2026/11/blog-post_738.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c15.jpg", "/2026/11/blog-post_99.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c16.jpg", "/2026/11/blog-post_369.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c17.jpg", "/2026/11/blog-post_665.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c18.jpg", "/2026/11/blog-post_407.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c19.jpg", "/2026/11/blog-post_361.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c20.jpg", "/2026/11/blog-post_96.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c21.jpg", "/2026/11/blog-post_25.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c22.jpg", "/2026/09/blog-post_11.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c23.jpg", "/2026/09/blog-post_07.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c24.jpg", "/2026/09/blog-post.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c25.jpg", "/2026/08/blog-post_25.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c26.jpg", "/2026/08/blog-post_24.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c27.jpg", "/2026/08/blog-post_987.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c28.jpg", "/2026/08/blog-post_23.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c29.jpg", "/2026/08/blog-post.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c30.jpg", "/2026/07/blog-post_30.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c31.jpg", "/2026/07/blog-post_24.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c32.jpg", "/2026/07/blog-post.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c33.jpg", "/2026/06/blog-post.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c34.jpg", "/2026/05/blog-post_21.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c35.jpg", "/2026/05/blog-post_12.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c36.jpg", "/2026/05/blog-post.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c37.jpg", "/2026/03/blog-post.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c38.jpg", "/2026/01/blog-post.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c39.jpg", "/2026/01/6.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c40.jpg", "/2025/10/blog-post.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c41.jpg", "/2025/09/blog-post_21.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c42.jpg", "/2025/09/blog-post_08.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c43.jpg", "/2025/09/blog-post_03.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c44.jpg", "/2025/09/blog-post.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c45.jpg", "/2025/08/blog-post_27.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c46.jpg", "/2025/08/blog-post.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c47.jpg", "/2025/08/blog-post_07.html": "https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c48.jpg","/2026/11/blog-post_486.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-1.jpg","/2026/11/blog-post_9841.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-2.jpg","/2026/11/blog-post_814.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-3.jpg","/2026/11/blog-post_190.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-4.jpg","/2026/11/blog-post_871.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-5.jpg","/2026/11/blog-post_724.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-6.jpg","/2026/11/blog-post_478.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-7.jpg","/2026/11/blog-post_597.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-1.jpg","/2026/11/blog-post_864.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-2.jpg","/2026/11/blog-post_694.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-3.jpg","/2026/11/blog-post_890.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-4.jpg","/2026/11/blog-post_327.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-5.jpg","/2026/11/blog-post_618.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-6.jpg","/2026/11/blog-post_836.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-7.jpg","/2026/11/blog-post_405.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-8.jpg","/2026/11/blog-post_933.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-9.jpg","/2026/11/blog-post_164.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-10.jpg","/2026/11/blog-post_634.html":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-11.jpg"};var cvu=CV[location.pathname],pbd=it.querySelector('.post-body');if(cvu&&pbd&&!pbd.querySelector('.coverfig')){var fg=document.createElement('figure');fg.className='coverfig';fg.style.textAlign='center';var im=document.createElement('img');im.src=cvu;im.alt='cover';im.style.cssText='max-width:420px;width:100%;height:auto;border-radius:6px;box-shadow:0 6px 28px rgba(0,0,0,.6)';fg.appendChild(im);pbd.insertBefore(fg,pbd.firstChild)}
+var au=AU[location.pathname],mt=it.querySelector('.meta2');
+if(au&&mt){var d=document.createElement('div');d.className='aud';
+d.innerHTML='<button type="button" class="audb">\uD83C\uDFA7 \u0627\u0633\u0645\u0639 \u0627\u0644\u0642\u0635\u0629 </button><div class="audp"><small>\u0642\u0631\u0627\u0621\u0629 \u0635\u0648\u062A\u064A\u0629 \u0644\u0644\u0642\u0635\u0629 ('+au[1]+')</small><audio controls preload="none" src="'+au[0]+'"></audio></div>';
+mt.parentNode.insertBefore(d,mt.nextSibling);
+var b=d.querySelector('button'),p=d.querySelector('.audp'),a=d.querySelector('audio');
+b.onclick=function(){p.classList.add('on');if(a.paused)a.play().catch(function(){});else a.pause()}}
+// PDF
+var sh=it.querySelector('.share');
+if(sh){var pb=document.createElement('button');pb.type='button';pb.className='pdfb';pb.textContent='\u062D\u0645\u0651\u0644 \u0627\u0644\u0642\u0635\u0629 PDF';sh.appendChild(pb);
+function ls(u){return new Promise(function(ok,no){var x=document.createElement('script');x.src=u;x.onload=ok;x.onerror=no;document.head.appendChild(x)})}
+function load(){var p=[];if(!window.html2canvas)p.push(ls('https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js'));if(!window.jspdf)p.push(ls('https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js'));return Promise.all(p)}
+function esc(t){return t.replace(/&/g,'&amp;').replace(/</g,'&lt;')}
+function build(){var bd=it.querySelector('.post-body'),ti=(it.querySelector('.post-title')||{}).textContent.trim();
+var cv=bd.querySelector('.coverfig img'),sl=bd.querySelector('.sealfig img');
+var cl=bd.cloneNode(true);[].forEach.call(cl.querySelectorAll('img,figure,.coverfig,.sealfig'),function(x){x.remove()});
+var tmp=document.createElement('div');tmp.innerHTML=cl.innerHTML.replace(/<br\s*\/?>|<\/p>|<\/div>/gi,'\n');
+var lines=(tmp.textContent||'').split('\n').map(function(s){return s.trim()}).filter(Boolean);
+var W=794,H=1120,root=document.createElement('div');root.style.cssText='width:'+W+'px;direction:rtl;font-family:Cairo,Tahoma,sans-serif;color:#ececec';
+var F='font-family:Cairo,Tahoma,sans-serif;';
+var pg0='<div class="pg" style="width:'+W+'px;height:'+H+'px;background:radial-gradient(circle at 50% 0%,#3a2f10,#0d0d0d 60%);display:flex;flex-direction:column;align-items:center;justify-content:center;overflow:hidden">'+(cv?'<img crossorigin="anonymous" src="'+cv.src+'" style="height:760px;border-radius:12px;box-shadow:0 14px 50px rgba(0,0,0,.7)">':'<div style="font-size:54px;font-weight:900;color:#d4af37">'+esc(ti)+'</div>')+'<div style="margin-top:44px;font-size:34px;font-weight:900;color:#d4af37;'+F+'">\u0645\u062A\u062D\u0641 \u0627\u0644\u0643\u062A\u0627\u0628\u0629</div><div style="margin-top:8px;font-size:20px;color:#cdbb7a">\u0645\u062D\u0645\u062F \u0639\u0627\u0634\u0648\u0631 \u0639\u0628\u062F\u0627\u0644\u0639\u0627\u0637\u064A</div></div>';
+root.innerHTML=pg0;document.body.appendChild(root);
+function np(first){var p=document.createElement('div');p.className='pg';p.style.cssText='width:'+W+'px;height:'+H+'px;background:#0d0d0d;padding:90px 96px 70px;overflow:hidden;position:relative';var i=document.createElement('div');p.appendChild(i);
+if(first)i.innerHTML='<div style="text-align:center;font-size:40px;font-weight:900;color:#d4af37;margin-bottom:8px">'+esc(ti)+'</div><div style="text-align:center;color:#a99a62;font-size:18px;margin-bottom:46px">\u0628\u0642\u0644\u0645 \u0645\u062D\u0645\u062F \u0639\u0627\u0634\u0648\u0631 \u0639\u0628\u062F\u0627\u0644\u0639\u0627\u0637\u064A</div>';
+root.appendChild(p);return i}
+var cur=np(true);
+lines.forEach(function(l){var p=document.createElement('p');p.style.cssText='margin:0 0 6px;font-size:22px;line-height:2.1;color:#ececec';p.textContent=l;cur.appendChild(p);if(cur.offsetHeight>H-160&&cur.children.length>1){cur.removeChild(p);cur=np(false);cur.appendChild(p)}});
+var end=document.createElement('div');end.style.cssText='text-align:center;margin-top:50px';end.innerHTML=(sl?'<img crossorigin="anonymous" src="'+sl.src+'" style="width:130px">':'')+'<div style="color:#d4af37;font-weight:800;font-size:20px;margin-top:8px">\u0645\u062A\u062D\u0641 \u0627\u0644\u0643\u062A\u0627\u0628\u0629</div><div style="color:#8b8060;font-size:15px;direction:ltr">museumofstories.blogspot.com</div>';cur.appendChild(end);
+if(cur.offsetHeight>H-160){cur.removeChild(end);var c2=np(false);c2.appendChild(end)}
+return root}
+function imgsReady(root){return Promise.all([].map.call(root.querySelectorAll('img'),function(i){return i.complete?1:new Promise(function(r){i.onload=i.onerror=r})}))}
+window.__wmPdf=function(ret){var sy=window.pageYOffset,ov=document.createElement('div');ov.style.cssText='position:fixed;inset:0;z-index:99999;background:#0d0d0d;color:#d4af37;display:flex;align-items:center;justify-content:center;font:700 20px Cairo,sans-serif';ov.textContent='\u062C\u0627\u0631\u064A \u062A\u062C\u0647\u064A\u0632 \u0627\u0644\u0645\u0644\u0641...';document.body.appendChild(ov);window.scrollTo(0,0);var root=null;
+function fin(){if(root)root.remove();ov.remove();window.scrollTo(0,sy)}
+return load().then(function(){return document.fonts.ready}).then(function(){root=build();return imgsReady(root)}).then(function(){var pgs=[].slice.call(root.querySelectorAll('.pg')),pdf=new window.jspdf.jsPDF({unit:'px',format:[794,1120],orientation:'portrait',hotfixes:['px_scaling']}),k=Promise.resolve();
+pgs.forEach(function(p,i){k=k.then(function(){return window.html2canvas(p,{scale:1.6,useCORS:true,backgroundColor:'#0d0d0d',logging:false})}).then(function(c){if(i>0)pdf.addPage([794,1120],'portrait');pdf.addImage(c.toDataURL('image/jpeg',0.92),'JPEG',0,0,794,1120)})});
+return k.then(function(){var name='\u0645\u062A\u062D\u0641-\u0627\u0644\u0643\u062A\u0627\u0628\u0629-'+location.pathname.replace(/[^a-z0-9]+/gi,'-').replace(/^-|-$/g,'')+'.pdf';if(ret)return pdf.output('datauristring');pdf.save(name)})}).then(function(x){fin();return x},function(e){fin();throw e})};
+pb.onclick=function(){var t=pb.textContent;pb.textContent='\u062C\u0627\u0631\u064A \u0627\u0644\u062A\u062C\u0647\u064A\u0632...';pb.disabled=true;window.__wmPdf().then(function(){pb.textContent=t;pb.disabled=false},function(){pb.textContent='\u062D\u0635\u0644 \u062E\u0637\u0623\u060C \u062C\u0631\u0628 \u062A\u0627\u0646\u064A';pb.disabled=false})}}
+})();
+//]]></script>
+<script>//<![CDATA[
+(function(){
+var A='https://api.follow.it/subscription-form/Z3ZrRXU0aFJKMzgya2srZjBZdUMxbVMyWklWa0NOeHd6ZnAwNXVjYmZUbU4zTWlTVWNjYkVNdnpRZDQyRlFlWjRBWXpCRGJsbUxyYkhPVG9zYTFZQnVBYUU3N3B4ZEIwZkphTTkvcStMdHpaaEk2dFhyWFlHZm9kei91L1VEeHZ8U1hwUVZFRkRQTkhOSWxIM3FrcGx4SGFudEx1THFOTWRIUkpkNFpHZ1E2QT0=/8';
+function form(){var f=document.createElement('form');f.className='nlf';f.method='post';f.action=A;f.target='_blank';f.innerHTML='<input type="email" name="email" required placeholder="you@example.com" aria-label="\u0627\u0644\u0625\u064A\u0645\u064A\u0644" spellcheck="false"/><button type="submit">\u0627\u0634\u062A\u0631\u0643 \u0628\u0627\u0644\u0646\u0634\u0631\u0629</button>';return f}
+var sb=document.querySelector('.subs');
+if(sb){var p=sb.querySelector('p');if(p)p.textContent='\u0633\u064A\u0628 \u0625\u064A\u0645\u064A\u0644\u0643 \u0648\u062A\u0648\u0635\u0644\u0643 \u0643\u0644 \u0642\u0635\u0629 \u062C\u062F\u064A\u062F\u0629 \u0623\u0648\u0644 \u0628\u0623\u0648\u0644';(p||sb.firstChild).insertAdjacentElement('afterend',form())}
+var sr=document.querySelector('.series');
+if(sr&&document.body.classList.contains('pt-index')&&!document.querySelector('.nlh')){var d=document.createElement('div');d.className='nlh';d.innerHTML='<b>\u0627\u0634\u062A\u0631\u0643 \u0641\u064A \u0627\u0644\u0646\u0634\u0631\u0629 \u0627\u0644\u0628\u0631\u064A\u062F\u064A\u0629</b><p>\u0643\u0644 \u0642\u0635\u0629 \u062C\u062F\u064A\u062F\u0629 \u062A\u0648\u0635\u0644\u0643 \u0639\u0644\u0649 \u0625\u064A\u0645\u064A\u0644\u0643 \u0623\u0648\u0644 \u0628\u0623\u0648\u0644</p>';d.appendChild(form());var host=document.querySelector('.foot');if(host)host.parentNode.insertBefore(d,host)}
+})();
+//]]></script>
+<script>/*cardcov1*/(function(){var CV={&quot;/2026/11/blog-post_238.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c01.jpg&quot;, &quot;/2026/11/blog-post_130.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c02.jpg&quot;, &quot;/2026/11/blog-post_771.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c03.jpg&quot;, &quot;/2026/11/blog-post_870.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c04.jpg&quot;, &quot;/2026/11/blog-post_795.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c05.jpg&quot;, &quot;/2026/11/blog-post_229.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c06.jpg&quot;, &quot;/2026/11/blog-post_825.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c07.jpg&quot;, &quot;/2026/11/blog-post_323.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c08.jpg&quot;, &quot;/2026/11/blog-post_52.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c09.jpg&quot;, &quot;/2026/11/blog-post_979.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c10.jpg&quot;, &quot;/2026/11/blog-post_522.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c11.jpg&quot;, &quot;/2026/11/blog-post_599.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c12.jpg&quot;, &quot;/2026/11/blog-post_283.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c13.jpg&quot;, &quot;/2026/11/blog-post_409.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c14.jpg&quot;, &quot;/2026/11/blog-post_738.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c15.jpg&quot;, &quot;/2026/11/blog-post_99.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c16.jpg&quot;, &quot;/2026/11/blog-post_369.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c17.jpg&quot;, &quot;/2026/11/blog-post_665.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c18.jpg&quot;, &quot;/2026/11/blog-post_407.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c19.jpg&quot;, &quot;/2026/11/blog-post_361.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c20.jpg&quot;, &quot;/2026/11/blog-post_96.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c21.jpg&quot;, &quot;/2026/11/blog-post_25.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c22.jpg&quot;, &quot;/2026/09/blog-post_11.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c23.jpg&quot;, &quot;/2026/09/blog-post_07.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c24.jpg&quot;, &quot;/2026/09/blog-post.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c25.jpg&quot;, &quot;/2026/08/blog-post_25.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c26.jpg&quot;, &quot;/2026/08/blog-post_24.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c27.jpg&quot;, &quot;/2026/08/blog-post_987.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c28.jpg&quot;, &quot;/2026/08/blog-post_23.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c29.jpg&quot;, &quot;/2026/08/blog-post.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c30.jpg&quot;, &quot;/2026/07/blog-post_30.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c31.jpg&quot;, &quot;/2026/07/blog-post_24.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c32.jpg&quot;, &quot;/2026/07/blog-post.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c33.jpg&quot;, &quot;/2026/06/blog-post.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c34.jpg&quot;, &quot;/2026/05/blog-post_21.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c35.jpg&quot;, &quot;/2026/05/blog-post_12.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c36.jpg&quot;, &quot;/2026/05/blog-post.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c37.jpg&quot;, &quot;/2026/03/blog-post.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c38.jpg&quot;, &quot;/2026/01/blog-post.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c39.jpg&quot;, &quot;/2026/01/6.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c40.jpg&quot;, &quot;/2025/10/blog-post.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c41.jpg&quot;, &quot;/2025/09/blog-post_21.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c42.jpg&quot;, &quot;/2025/09/blog-post_08.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c43.jpg&quot;, &quot;/2025/09/blog-post_03.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c44.jpg&quot;, &quot;/2025/09/blog-post.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c45.jpg&quot;, &quot;/2025/08/blog-post_27.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c46.jpg&quot;, &quot;/2025/08/blog-post.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c47.jpg&quot;, &quot;/2025/08/blog-post_07.html&quot;: &quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@cd8ebcb92a376378541f23c798ba30e202ac5500/s2/c48.jpg&quot;,&quot;/2026/11/blog-post_486.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-1.jpg&quot;,&quot;/2026/11/blog-post_9841.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-2.jpg&quot;,&quot;/2026/11/blog-post_814.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-3.jpg&quot;,&quot;/2026/11/blog-post_190.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-4.jpg&quot;,&quot;/2026/11/blog-post_871.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-5.jpg&quot;,&quot;/2026/11/blog-post_724.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-6.jpg&quot;,&quot;/2026/11/blog-post_478.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/worlds-7.jpg&quot;,&quot;/2026/11/blog-post_597.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-1.jpg&quot;,&quot;/2026/11/blog-post_864.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-2.jpg&quot;,&quot;/2026/11/blog-post_694.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-3.jpg&quot;,&quot;/2026/11/blog-post_890.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-4.jpg&quot;,&quot;/2026/11/blog-post_327.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-5.jpg&quot;,&quot;/2026/11/blog-post_618.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-6.jpg&quot;,&quot;/2026/11/blog-post_836.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-7.jpg&quot;,&quot;/2026/11/blog-post_405.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-8.jpg&quot;,&quot;/2026/11/blog-post_933.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-9.jpg&quot;,&quot;/2026/11/blog-post_164.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-10.jpg&quot;,&quot;/2026/11/blog-post_634.html&quot;:&quot;https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@2cf067e21990c6ea6395e64f8d4cd0ab8b08a207/clock-11.jpg&quot;};function f(){document.querySelectorAll(&#39;.post-outer&#39;).forEach(function(p){var a=p.querySelector(&#39;h3.post-title a&#39;);var im=p.querySelector(&#39;img.cov&#39;);if(!a)return;var u=CV[a.pathname];if(u&amp;&amp;!im){im=document.createElement(&#39;img&#39;);im.className=&#39;cov&#39;;im.alt=&#39;&#39;;p.insertBefore(im,p.firstChild)}if(u&amp;&amp;im){im.removeAttribute(&#39;srcset&#39;);im.src=u;im.style.objectFit=&#39;cover&#39;;im.style.aspectRatio=&#39;5/8&#39;;im.style.height=&#39;auto&#39;}})}f();document.addEventListener(&#39;DOMContentLoaded&#39;,f)})();</script>
+<style>
+.topbar a:focus-visible,.menu a:focus-visible,button:focus-visible,input:focus-visible,.card:focus-visible,a.btn:focus-visible,.cta1:focus-visible,.cta2:focus-visible{outline:2px solid #d4af37;outline-offset:2px}
+.emp{text-align:center;color:var(--mut);border:1px dashed var(--line);border-radius:20px;padding:40px 16px;margin:20px 0}.emp b{display:block;color:#d4af37;font-size:22px;margin-bottom:6px}.emp p{margin:0 0 18px}
+.pt-error_page .hero{display:none}
+@media(min-width:701px){
+.topbar .wrap{display:grid;grid-template-columns:auto 1fr auto;grid-template-areas:&#39;brand srch thm&#39; &#39;menu menu menu&#39;;align-items:center;gap:2px 16px;padding-top:6px;padding-bottom:4px;min-height:0}
+.topbar .brand{grid-area:brand}.topbar .srch{grid-area:srch;justify-self:center;flex-basis:auto;margin:0}.topbar #thm{grid-area:thm;order:0}.topbar .menu{grid-area:menu;justify-content:center;flex-wrap:wrap;gap:2px}
+.topbar .menu a{padding:5px 12px;font-size:14.5px}
+.topbar .srch input{width:200px}
+}
+@media(prefers-reduced-motion:reduce){.ring a{animation:none!important}*{scroll-behavior:auto!important;transition:none!important}}
+</style>
+<script>//<![CDATA[
+(function(){
+try{
+if(!document.querySelector('meta[name=description]')){var od=document.querySelector('meta[property="og:description"]');var dt=od?od.content.replace(/[◆\s]+/g,' ').trim():'';if(dt){var md=document.createElement('meta');md.name='description';md.content=dt;document.head.appendChild(md)}}
+var it=document.querySelector('.pt-item .post-outer');
+var old=document.querySelector('script[type="application/ld+json"]');
+function meta(p){var e=document.querySelector('meta[property="'+p+'"]');return e?e.content:''}
+if(it&&old){var ti=(it.querySelector('.post-title')||{}).textContent;ti=(ti||'').trim();var ab=it.querySelector('abbr.published');
+var d={"@context":"https://schema.org","@type":"BlogPosting","headline":ti,"url":location.href.split('?')[0],"mainEntityOfPage":location.href.split('?')[0],"inLanguage":"ar","author":{"@type":"Person","name":"محمد عاشور عبدالعاطي","url":"https://museumofstories.blogspot.com/p/blog-page.html"},"publisher":{"@type":"Organization","name":"متحف الكتابة","logo":{"@type":"ImageObject","url":"https://cdn.jsdelivr.net/gh/museum-of-stories-audio/covers@f043464ce9ce74267a651bd932e6271a06dad6cb/brand/fav512.png"}}};
+if(ab)d.datePublished=ab.getAttribute('title');
+var im=meta('og:image');if(im)d.image=im;var ds=meta('og:description');if(ds)d.description=ds;
+old.textContent=JSON.stringify(d)}
+if(document.body.classList.contains('is-home')&&!document.getElementById('ld-site')){var s=document.createElement('script');s.type='application/ld+json';s.id='ld-site';
+s.textContent=JSON.stringify({"@context":"https://schema.org","@type":"WebSite","name":"متحف الكتابة","url":"https://museumofstories.blogspot.com/","inLanguage":"ar","potentialAction":{"@type":"SearchAction","target":"https://museumofstories.blogspot.com/search?q={q}","query-input":"required name=q"}});document.head.appendChild(s)}
+}catch(e){}
+})();
+//]]></script>
+</body>
+</html>
