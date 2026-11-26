@@ -1,0 +1,32 @@
+name: series
+on:
+  push:
+    paths: ['.github/workflows/series.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  go:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: run
+        run: |
+          mkdir -p series
+          curl -fsSL --retry 3 -o brand/seal.png https://pomf2.lain.la/f/adh7mtys.png
+          curl -fsSL --retry 3 -o series/hbg-worlds.jpg https://pomf2.lain.la/f/3j72t8jt.jpg
+          curl -fsSL --retry 3 -o series/hbg-tales.jpg https://pomf2.lain.la/f/niw1aync.jpg
+          curl -fsSL --retry 3 -o series/hbg-clock.jpg https://pomf2.lain.la/f/0w4o9gkc.jpg
+          curl -fsSL --retry 3 -o series/hbg-memo.jpg https://pomf2.lain.la/f/gizqb8d6.jpg
+          curl -fsSL --retry 3 -o series/memo-1.jpg https://pomf2.lain.la/f/kg37tr61.jpg
+          curl -fsSL --retry 3 -o series/memo-2.jpg https://pomf2.lain.la/f/tv7hgfvs.jpg
+          curl -fsSL --retry 3 -o series/memo-3.jpg https://pomf2.lain.la/f/wu5ok5wi.jpg
+          curl -fsSL --retry 3 -o series/memo-4.jpg https://pomf2.lain.la/f/n1l4gtsu.jpg
+          curl -fsSL --retry 3 -o series/memo-5.jpg https://pomf2.lain.la/f/qk1fr9re.jpg
+          curl -fsSL --retry 3 -o series/memo-6.jpg https://pomf2.lain.la/f/kxdudc1v.jpg
+          curl -fsSL --retry 3 -o series/memo-7.jpg https://pomf2.lain.la/f/sfm1mphs.jpg
+          git config user.name bot
+          git config user.email bot@users.noreply.github.com
+          git add brand/seal.png series/
+          git commit -m add series page assets
+          git push
