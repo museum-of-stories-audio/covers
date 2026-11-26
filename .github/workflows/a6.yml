@@ -1,0 +1,25 @@
+name: a6
+on:
+  push:
+    paths: ['.github/workflows/a6.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  go:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: d
+        run: |
+          mkdir -p brand
+          curl -fsSL --retry 3 -o brand/og.jpg https://pomf2.lain.la/f/ch5pg0c6.jpg
+          curl -fsSL --retry 3 -o brand/fav512.png https://pomf2.lain.la/f/9b5cl67b.png
+          curl -fsSL --retry 3 -o brand/fav180.png https://pomf2.lain.la/f/fhf455iy.png
+      - name: c
+        run: |
+          git config user.name bot
+          git config user.email bot@example.com
+          git add brand
+          git commit -m brand
+          git push
