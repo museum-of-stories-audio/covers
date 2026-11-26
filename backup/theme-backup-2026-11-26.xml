@@ -246,6 +246,7 @@ html.lt .later-panel .li:hover{background:#f3ead0}
 .series{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;margin:0 0 34px}.series a{display:block;padding:20px 16px;border:1px solid var(--line);border-radius:18px;background:linear-gradient(160deg,#1c1c1c,#121212);color:#eee;text-decoration:none;font-weight:700;text-align:center}.series a:hover{border-color:var(--lime);color:var(--lime)}.series small{display:block;color:var(--mut);font-weight:400;margin-top:6px}
 .sh{display:flex;justify-content:space-between;align-items:center}.sh a{color:var(--lime);text-decoration:none;font-size:15px}
 </style>
+<style>body.pt-item .blog-pager{display:none!important}</style>
 <style>.sbtn{border:1px solid rgba(212,175,55,.5);color:var(--lime);border-radius:30px;padding:8px 24px;text-decoration:none;font-weight:700}.sbtn:hover{background:rgba(212,175,55,.12)}</style>
 <style>
 .vw{color:var(--mut)}
