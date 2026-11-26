@@ -5,6 +5,12 @@
 <meta content='width=device-width, initial-scale=1' name='viewport'/>
 <meta content='qBTLTbxsSrndsC8w2TnV' name='follow.it-verification-code'/>
 <b:if cond='data:view.isHomepage'><meta content='متحف الكتابة - قصص وروايات بقلم محمد عاشور عبدالعاطي. قصص قصيرة ومذكرات ونوفيلات تعيش معك بعد آخر سطر.' name='description'/></b:if>
+<b:if cond='data:blog.url == &quot;https://museumofstories.blogspot.com/p/blog-page_637.html&quot;'><meta content='بعد الرحلة: نوفيلا نفسية درامية بقلم محمد عاشور عبدالعاطي، عن كيف تعيش مع ما لا يمكن حله. اقرأها كاملة على متحف الكتابة.' name='description'/></b:if>
+<b:if cond='data:blog.url == &quot;https://museumofstories.blogspot.com/p/blog-page_519.html&quot;'><meta content='ناسا: نوفيلا خيال علمي بقلم محمد عاشور عبدالعاطي. السماء كانت تناديه باسمه. اقرأها كاملة على متحف الكتابة.' name='description'/></b:if>
+<b:if cond='data:blog.url == &quot;https://museumofstories.blogspot.com/p/blog-page_423.html&quot;'><meta content='رحلة للعوالم السبعة: فانتازيا ومغامرة بقلم محمد عاشور عبدالعاطي. سبع بوابات، وعالم لكل بوابة. اقرأ الفصول على متحف الكتابة.' name='description'/></b:if>
+<b:if cond='data:blog.url == &quot;https://museumofstories.blogspot.com/p/blog-page_684.html&quot;'><meta content='حكايات لم تُحكى: حكايات رمزية وغموض بقلم محمد عاشور عبدالعاطي. قصص تنتظر من يرويها. اقرأ واستمع على متحف الكتابة.' name='description'/></b:if>
+<b:if cond='data:blog.url == &quot;https://museumofstories.blogspot.com/p/blog-page_558.html&quot;'><meta content='الساعة الملعونة: خيال علمي وتشويق بقلم محمد عاشور عبدالعاطي. اثنتا عشرة رحلة، وساعة واحدة لكل رحلة. اقرأ واستمع على متحف الكتابة.' name='description'/></b:if>
+<b:if cond='data:blog.url == &quot;https://museumofstories.blogspot.com/p/blog-page_26.html&quot;'><meta content='مذكرات عادل مرسي: قصص نفسية وغموض ورعب بقلم محمد عاشور عبدالعاطي. صفحات من حياة رجل يهرب من نفسه. اقرأ على متحف الكتابة.' name='description'/></b:if>
 <meta content='index, follow, max-image-preview:large' name='robots'/>
 
 <title><data:blog.pageTitle/></title>
@@ -127,7 +133,30 @@ h2.sec:after{content:'';flex:1;height:1px;background:var(--line)}
 .pager{display:flex;justify-content:space-between;margin:30px 0}
 .pager a{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px 20px}
 .pager a:hover{border-color:var(--lime);color:var(--lime)}
-.zoom{position:fixed;left:16px;bottom:16px;z-index:99;display:flex;gap:6px;background:#141414;border:1px solid var(--line);border-radius:999px;padding:6px 8px;box-shadow:0 6px 24px rgba(0,0,0,.5)}
+.zoom{display:flex;gap:6px;align-items:center;background:#141414;border:1px solid var(--line);border-radius:999px;padding:6px 12px;width:fit-content;margin:0 0 20px}
+.zoom span{color:var(--mut);font-size:13px;font-weight:700;margin:0 2px}
+.bmk{position:fixed;right:18px;bottom:18px;z-index:99;display:flex;flex-direction:column;align-items:center;gap:8px}
+.bmkbtn{position:relative;width:48px;height:48px;border-radius:50%;background:#141414;border:1px solid var(--line);color:var(--txt);cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 24px rgba(0,0,0,.5);padding:0}
+.bmkbtn:hover{border-color:var(--lime);color:var(--lime)}
+.bmkbtn svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.bmkbtn.on{color:var(--lime);border-color:var(--lime)}
+.bmkbtn.on svg{fill:var(--lime)}
+.bmkbtn .n{position:absolute;top:-6px;left:-6px;background:var(--lime);color:#111;font-size:11px;font-weight:800;border-radius:999px;min-width:18px;height:18px;line-height:18px;text-align:center;display:none;font-family:'Cairo',sans-serif}
+.bmkbtn .n.show{display:block}
+.bmkgo{background:#141414;border:1px solid var(--lime);color:var(--lime);border-radius:999px;padding:8px 14px;font:700 13px 'Cairo',sans-serif;cursor:pointer;box-shadow:0 6px 24px rgba(0,0,0,.5);white-space:nowrap}
+.bmkmsg{position:absolute;bottom:calc(100% + 6px);left:50%;transform:translateX(-50%);background:#141414;border:1px solid var(--line);color:var(--lime);border-radius:10px;padding:5px 10px;font-size:12px;font-weight:700;white-space:nowrap;opacity:0;transition:opacity .3s;pointer-events:none;z-index:2}
+.bmkmsg.show{opacity:1}
+.later-panel{position:absolute;bottom:calc(100% + 10px);right:0;width:min(300px,calc(100vw - 36px));max-height:55vh;overflow:auto;background:#141414;border:1px solid var(--line);border-radius:14px;box-shadow:0 10px 40px rgba(0,0,0,.6);padding:10px;display:none}
+.later-panel.open{display:block}
+.later-panel h4{margin:4px 6px 10px;color:var(--lime);font-size:15px}
+.later-panel .li{display:flex;align-items:center;gap:6px;padding:7px 8px;border-radius:10px}
+.later-panel .li:hover{background:#1d1d1d}
+.later-panel .li a{flex:1;color:var(--txt);font-size:14px;font-weight:600;line-height:1.5;text-decoration:none}
+.later-panel .li button{background:none;border:none;color:var(--mut);font-size:17px;cursor:pointer;padding:2px 6px}
+.later-panel .li button:hover{color:#e66}
+.later-panel .empty{color:var(--mut);font-size:13px;text-align:center;padding:14px 6px;line-height:1.9}
+html.lt .bmkbtn,html.lt .bmkgo,html.lt .bmkmsg,html.lt .later-panel{background:#fffdf7}
+html.lt .later-panel .li:hover{background:#f3ead0}
 .zoom button{background:var(--card2);color:var(--txt);border:1px solid var(--line);border-radius:999px;width:42px;height:42px;font:700 17px 'Cairo',sans-serif;cursor:pointer}
 .zoom button:hover{background:var(--lime);color:#111}
 .foot{border-top:1px solid var(--line);margin-top:50px;padding:26px 0 90px;text-align:center;color:var(--mut);font-size:14px}
@@ -1127,14 +1156,13 @@ html.lt .showc{border-color:rgba(122,90,5,.3)}html.lt .showc h2{color:#7a5a05}
 </b:section>
 <div class='foot'>&#169; متحف الكتابة - محمد عاشور عبدالعاطي</div>
 </div>
-<div class='zoom'><button aria-label='تكبير الخط' id='zp' title='تكبير الخط' type='button'>أ+</button><button aria-label='تصغير الخط' id='zm' title='تصغير الخط' type='button'>أ-</button></div>
+
 <script>//<![CDATA[
 (function(){
 var k='wm_zoom',z=parseFloat(localStorage.getItem(k))||1;
 function ap(){document.documentElement.style.setProperty('--z',z);localStorage.setItem(k,z)}
 ap();
-document.getElementById('zp').onclick=function(){z=Math.min(1.8,+(z+0.1).toFixed(2));ap()};
-document.getElementById('zm').onclick=function(){z=Math.max(0.8,+(z-0.1).toFixed(2));ap()};
+window.wmZoom=function(d){z=Math.max(0.8,Math.min(1.8,+(z+d).toFixed(2)));ap()};
 var cs=document.querySelectorAll('.card');
 for(var i=0;i<cs.length;i++){var r=cs[i].querySelector('.raw'),s=cs[i].querySelector('.snip');
 if(r&&s){var t=(r.textContent||'').replace(/\s+/g,' ').trim();s.textContent=t.length>170?t.slice(0,170)+'...':t}}
@@ -1165,7 +1193,12 @@ sh.innerHTML='<span>شارك:</span><a target="_blank" rel="noopener" href="http
 var bd=it.querySelector('.post-body');bd.parentNode.insertBefore(sh,bd.nextSibling);
 document.getElementById('cpl').onclick=function(){var b=this;(navigator.clipboard?navigator.clipboard.writeText(location.href.split('?')[0]):Promise.reject()).then(function(){b.textContent='تم النسخ'},function(){b.textContent='انسخه من شريط العنوان'})};
 var nw=document.querySelector('#blog-pager-newer-link a'),od=document.querySelector('#blog-pager-older-link a');
-if(nw||od){var pn=document.createElement('div');pn.className='pn';pn.innerHTML=(od?'<a href="'+od.href+'">&rarr; القصة السابقة</a>':'')+(nw?'<a href="'+nw.href+'">القصة التالية &larr;</a>':'');sh.parentNode.insertBefore(pn,sh.nextSibling)}}
+if(nw||od){var pn=document.createElement('div');pn.className='pn';pn.innerHTML=(od?'<a href="'+od.href+'">&rarr; القصة السابقة</a>':'')+(nw?'<a href="'+nw.href+'">القصة التالية &larr;</a>':'');sh.parentNode.insertBefore(pn,sh.nextSibling)}
+var zb=document.createElement('div');zb.className='zoom';
+zb.innerHTML='<span>حجم الخط</span><button aria-label="تكبير الخط" id="zp" title="تكبير الخط" type="button">أ+</button><button aria-label="تصغير الخط" id="zm" title="تصغير الخط" type="button">أ-</button>';
+bd.parentNode.insertBefore(zb,bd);
+zb.querySelector('#zp').onclick=function(){window.wmZoom(0.1)};
+zb.querySelector('#zm').onclick=function(){window.wmZoom(-0.1)}}
 var cs=document.querySelectorAll('.pt-index .post-outer,.pt-archive .post-outer');
 for(var i=0;i<cs.length;i++){var c=cs[i],im=c.querySelector('.post-body img'),a2=c.querySelector('abbr.published'),h=c.querySelector('h3');
 if(im){var g=document.createElement('img');g.className='cov';g.loading='lazy';g.decoding='async';g.src=im.src;g.alt='';c.insertBefore(g,c.firstChild)}
@@ -1397,6 +1430,7 @@ if(sr&&document.body.classList.contains('pt-index')&&!document.querySelector('.n
 <script>//<![CDATA[
 (function(){
 try{
+(function(){var m=document.querySelector('meta[name=description]'),o=document.querySelector('meta[property="og:description"]');if(m&&o&&document.body.className.indexOf('pt-static_page')>-1&&o.content.indexOf('\u25C6')>-1)o.content=m.content;if(document.querySelector('.pt-static_page .author')){var pt=document.querySelector('.pt-static_page .post-title');if(pt)pt.style.display='none'}})();
 if(!document.querySelector('meta[name=description]')){var od=document.querySelector('meta[property="og:description"]');var dt=od?od.content.replace(/[◆\s]+/g,' ').trim():'';if(dt){var md=document.createElement('meta');md.name='description';md.content=dt;document.head.appendChild(md)}}
 var it=document.querySelector('.pt-item .post-outer');
 var old=document.querySelector('script[type="application/ld+json"]');
@@ -1409,6 +1443,58 @@ old.textContent=JSON.stringify(d)}
 if(document.body.classList.contains('is-home')&&!document.getElementById('ld-site')){var s=document.createElement('script');s.type='application/ld+json';s.id='ld-site';
 s.textContent=JSON.stringify({"@context":"https://schema.org","@type":"WebSite","name":"متحف الكتابة","url":"https://museumofstories.blogspot.com/","inLanguage":"ar","potentialAction":{"@type":"SearchAction","target":"https://museumofstories.blogspot.com/search?q={q}","query-input":"required name=q"}});document.head.appendChild(s)}
 }catch(e){}
+})();
+//]]></script>
+<script>//<![CDATA[
+(function(){
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+var LK='wm_later';
+function lget(){try{return JSON.parse(localStorage.getItem(LK))||[]}catch(e){return[]}}
+function lset(a){try{localStorage.setItem(LK,JSON.stringify(a))}catch(e){}}
+var bw=document.createElement('div');bw.className='bmk';
+var msg=document.createElement('div');msg.className='bmkmsg';bw.appendChild(msg);
+function toast(x){msg.textContent=x;msg.classList.add('show');if(msg._t)clearTimeout(msg._t);msg._t=setTimeout(function(){msg.classList.remove('show')},1800)}
+var it=document.querySelector('.pt-item .post-outer');
+if(it){
+var mk='wm_mark_'+location.pathname;
+function mget(){try{return parseInt(localStorage.getItem(mk))||0}catch(e){return 0}}
+function mset(y){try{localStorage.setItem(mk,String(Math.round(y)))}catch(e){}}
+var sv=mget();
+var gb=null;
+if(sv>500&&sv-(window.pageYOffset||0)>300){gb=document.createElement('button');gb.className='bmkgo';gb.type='button';gb.textContent='كمّل من حيث وقفت';
+gb.onclick=function(){window.scrollTo(0,sv);if(gb&&gb.parentNode)gb.parentNode.removeChild(gb);gb=null};
+bw.appendChild(gb);
+setTimeout(function(){if(gb&&gb.parentNode){gb.parentNode.removeChild(gb);gb=null}},15000)}
+var bb=document.createElement('button');bb.className='bmkbtn bmksave';bb.type='button';bb.title='مارك - احفظ مكانك والقصة في قراءة لاحقًا';bb.setAttribute('aria-label','مارك: احفظ مكانك والقصة في قائمة قراءة لاحقًا');
+bb.innerHTML='<svg viewBox="0 0 24 24"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.5L5 21V4a1 1 0 0 1 1-1z"/></svg>';
+bw.appendChild(bb);
+var inList=false,la0=lget();for(var li=0;li<la0.length;li++)if(la0[li].p==location.pathname){inList=true;break}
+function mon(){bb.classList.add('on')}
+if(sv>200||inList)mon();
+bb.onclick=function(){
+var y=window.pageYOffset||document.documentElement.scrollTop||0;mset(y);mon();
+var te=it.querySelector('.post-title'),ti=(te?te.textContent:document.title).replace(/\s+/g,' ').trim();
+var a=lget(),f=false;for(var i=0;i<a.length;i++)if(a[i].p==location.pathname){f=true;break}
+if(!f){a.unshift({p:location.pathname,t:ti});lset(a)}
+toast(f?'تم تحديث مكانك':'اتحفظت في قراءة لاحقًا');
+badge()};
+var stm=null;
+window.addEventListener('scroll',function(){if(stm)return;stm=setTimeout(function(){stm=null;var y=window.pageYOffset||0;if(y>300){mset(y);mon()}},800)},{passive:true});
+}
+var pn=document.createElement('div');pn.className='later-panel';bw.appendChild(pn);
+function badge(){var s=lb.querySelector('.n'),n=lget().length;s.textContent=n>99?'99+':String(n);if(n)s.classList.add('show');else s.classList.remove('show')}
+function render(){var a=lget(),h='<h4>قراءة لاحقًا</h4>';
+if(!a.length)h+='<div class="empty">مفيش حاجة محفوظة لسه. اعمل مارك جوه أي قصة وهتلاقيها هنا</div>';
+for(var i=0;i<a.length;i++)h+='<div class="li"><a href="'+a[i].p+'">'+esc(a[i].t)+'</a><button type="button" data-i="'+i+'" aria-label="امسح من القايمة">×</button></div>';
+pn.innerHTML=h;
+var bs=pn.querySelectorAll('.li button');
+for(var j=0;j<bs.length;j++)bs[j].onclick=function(){var a2=lget();a2.splice(+this.getAttribute('data-i'),1);lset(a2);render();badge()}}
+var lb=document.createElement('button');lb.className='bmkbtn bmklist';lb.type='button';lb.title='قراءة لاحقًا';lb.setAttribute('aria-label','افتح قائمة قراءة لاحقًا');
+lb.innerHTML='<svg viewBox="0 0 24 24"><path d="M4 5h16M4 10h16M4 15h9"/><path d="M17 14l4 2.5-4 2.5z" fill="currentColor" stroke="none"/></svg><span class="n"></span>';
+bw.appendChild(lb);document.body.appendChild(bw);
+badge();
+lb.onclick=function(e){e.stopPropagation();if(pn.classList.contains('open'))pn.classList.remove('open');else{render();pn.classList.add('open')}};
+document.addEventListener('click',function(e){if(pn.classList.contains('open')&&!pn.contains(e.target)&&e.target!=lb)pn.classList.remove('open')});
 })();
 //]]></script>
 </body>
